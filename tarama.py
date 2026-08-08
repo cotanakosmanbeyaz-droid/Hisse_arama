@@ -7,8 +7,8 @@ CHAT_ID = os.environ["CHAT_ID"]
 
 hisseler = ["THYAO.IS", "GARAN.IS", "ASELS.IS", "SISE.IS", "KCHOL.IS"]
 
-def rsi_hesapla(veri, periyot=14):
-    delta = veri['Close'].diff()
+def rsi_hesapla(kapanis, periyot=14):
+    delta = kapanis.diff()
     kazanc = delta.where(delta > 0, 0)
     kayip = -delta.where(delta < 0, 0)
     ort_kazanc = kazanc.rolling(periyot).mean()
@@ -22,7 +22,10 @@ bulundu = False
 for hisse in hisseler:
     try:
         veri = yf.download(hisse, period="3mo", interval="1d", progress=False)
-        rsi = float(rsi_hesapla(veri).iloc[-1])
+        kapanis = veri['Close']
+        if hasattr(kapanis, 'columns'):
+            kapanis = kapanis.iloc[:, 0]
+        rsi = float(rsi_hesapla(kapanis).iloc[-1])
         if rsi < 30:
             mesaj += f"🟢 {hisse}: RSI {rsi:.1f} — aşırı satım bölgesi\n"
             bulundu = True
