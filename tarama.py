@@ -26,9 +26,9 @@ for hisse in hisseler:
         if rsi < 30:
             mesaj += f"🟢 {hisse}: RSI {rsi:.1f} — aşırı satım bölgesi\n"
             bulundu = True
-    except Exception:
-        mesaj += f"⚠️ {hisse}: veri alınamadı\n"
-
+    except Exception as e:
+        print(f"HATA - {hisse}: {e}")
+        mesaj += f"⚠️ {hisse}: veri alınamadı ({str(e)[:100]})\n"
 if not bulundu:
     mesaj += "Şu an sinyal veren hisse yok."
 
