@@ -82,10 +82,39 @@ def vwap_hesapla(df):
     cum_vol = pd.Series(df['Volume'].values, index=df.index).groupby(gun).cumsum()
     return cum_tv / cum_vol
 
-def kriterleri_degerlendir(df):
-    if len(df) < 60:
+def obv_hesapla(kapanis, hacim):
+    yon = np.sign(kapanis.diff().fillna(0))
+    return (yon * hacim).cumsum()
+
+def to_4h(df1s):
+    df1s = df1s.copy()
+    df1s['gun'] = df1s.index.date
+    bloklar = []
+    for gun, grup in df1s.groupby('gun'):
+        grup = grup.sort_index()
+        for i in range(0, len(grup), 4):
+            blok = grup.iloc[i:i+4]
+            if blok.empty:
+                continue
+            bloklar.append({
+                'index': blok.index[-1],
+                'Open': blok['Open'].iloc[0],
+                'High': blok['High'].max(),
+                'Low': blok['Low'].min(),
+                'Close': blok['Close'].iloc[-1],
+                'Volume': blok['Volume'].sum(),
+            })
+    if not bloklar:
+        return pd.DataFrame()
+    df4 = pd.DataFrame(bloklar).set_index('index')
+    return df4
+
+def kriterleri_degerlendir(df1s):
+    df4 = to_4h(df1s)
+    if len(df4) < 40:
         return None
-    kapanis = df['Close']
+
+    kapanis = df4['Close']
     ema8 = ema(kapanis, 8)
     ema21 = ema(kapanis, 21)
     if ema8.iloc[-1] <= ema21.iloc[-1]:
@@ -93,20 +122,24 @@ def kriterleri_degerlendir(df):
 
     macd, sinyal, hist = macd_hesapla(kapanis)
     rsi = rsi_hesapla(kapanis)
-    adx = adx_hesapla(df['High'], df['Low'], kapanis)
-    hacim_ort = df['Volume'].rolling(20).mean()
-    vwap = vwap_hesapla(df)
+    adx = adx_hesapla(df4['High'], df4['Low'], kapanis)
+    hacim_ort = df4['Volume'].rolling(20).mean()
+    vwap = vwap_hesapla(df4)
+    obv = obv_hesapla(kapanis, df4['Volume'])
+    obv_ort = ema(obv, 20)
 
     kriterler = [
         macd.iloc[-1] > sinyal.iloc[-1],
         hist.iloc[-1] > 0 and hist.iloc[-1] > hist.iloc[-2],
         55 <= rsi.iloc[-1] <= 72,
         adx.iloc[-1] >= 20,
-        df['Volume'].iloc[-1] > hacim_ort.iloc[-1],
+        df4['Volume'].iloc[-1] > hacim_ort.iloc[-1],
         kapanis.iloc[-1] > vwap.iloc[-1],
+        obv.iloc[-1] > obv_ort.iloc[-1],
     ]
-    if sum(kriterler) >= 4:
-        return float(kapanis.iloc[-1])
+    if sum(kriterler) >= 5:
+        guncel_fiyat = float(df1s['Close'].iloc[-1])
+        return guncel_fiyat
     return None
 
 def veri_indir(tickerlar):
@@ -118,7 +151,8 @@ def veri_indir(tickerlar):
                 tickers=" ".join(parca),
                 period="60d", interval="1h",
                 group_by="ticker", threads=True,
-                progress=False, session=session
+                progress=False, session=session,
+                auto_adjust=False
             )
             for t in parca:
                 try:
@@ -159,7 +193,10 @@ def main():
             continue
 
         if MOD == "tarama":
-            giris_fiyati = kriterleri_degerlendir(df)
+            try:
+                giris_fiyati = kriterleri_degerlendir(df)
+            except Exception:
+                giris_fiyati = None
             if giris_fiyati:
                 hedef = giris_fiyati * (1 + HEDEF_YUZDE)
                 stop = giris_fiyati * (1 - STOP_YUZDE)
