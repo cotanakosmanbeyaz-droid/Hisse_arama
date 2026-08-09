@@ -1,2 +1,5 @@
 yfinance
 requests
+curl_cffi
+pandas
+numpy
