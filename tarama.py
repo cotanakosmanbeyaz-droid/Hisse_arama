@@ -109,16 +109,16 @@ def to_4h(df1s):
     df4 = pd.DataFrame(bloklar).set_index('index')
     return df4
 
-def kriterleri_degerlendir(df1s):
+def kriter_gecti_mi(df1s):
     df4 = to_4h(df1s)
     if len(df4) < 40:
-        return None
+        return False
 
     kapanis = df4['Close']
     ema8 = ema(kapanis, 8)
     ema21 = ema(kapanis, 21)
     if ema8.iloc[-1] <= ema21.iloc[-1]:
-        return None
+        return False
 
     macd, sinyal, hist = macd_hesapla(kapanis)
     rsi = rsi_hesapla(kapanis)
@@ -137,19 +137,16 @@ def kriterleri_degerlendir(df1s):
         kapanis.iloc[-1] > vwap.iloc[-1],
         obv.iloc[-1] > obv_ort.iloc[-1],
     ]
-    if sum(kriterler) >= 5:
-        guncel_fiyat = float(df1s['Close'].iloc[-1])
-        return guncel_fiyat
-    return None
+    return sum(kriterler) >= 5
 
-def veri_indir(tickerlar):
+def toplu_indir(tickerlar, period, interval):
     sonuc = {}
     for i in range(0, len(tickerlar), PARCA_BOYUTU):
         parca = tickerlar[i:i+PARCA_BOYUTU]
         try:
             veri = yf.download(
                 tickers=" ".join(parca),
-                period="60d", interval="1h",
+                period=period, interval=interval,
                 group_by="ticker", threads=True,
                 progress=False, session=session,
                 auto_adjust=False
@@ -163,47 +160,69 @@ def veri_indir(tickerlar):
                 except Exception:
                     pass
         except Exception as e:
-            print(f"Parça hatası: {e}")
+            print(f"Parça hatası ({interval}): {e}")
         time.sleep(1)
     return sonuc
+
+def guncel_fiyat_al(tickerlar):
+    if not tickerlar:
+        return {}
+    veriler_1dk = toplu_indir(tickerlar, period="1d", interval="1m")
+    fiyatlar = {}
+    for t, df in veriler_1dk.items():
+        fiyatlar[t] = float(df['Close'].iloc[-1])
+    return fiyatlar
 
 def main():
     tickerlar = hisseleri_oku()
     pozisyonlar = pozisyonlari_oku()
-    veriler = veri_indir(tickerlar)
+    veriler_1s = toplu_indir(tickerlar, period="60d", interval="1h")
+
+    adaylar = []
+    for t, df in veriler_1s.items():
+        if t in pozisyonlar:
+            continue
+        if MOD != "tarama":
+            continue
+        try:
+            if kriter_gecti_mi(df):
+                adaylar.append(t)
+        except Exception:
+            pass
+
+    acik_pozisyon_tickerlari = [t for t in pozisyonlar.keys() if t in veriler_1s]
+    guncel_gerekli = list(set(adaylar) | set(acik_pozisyon_tickerlari))
+    guncel_fiyatlar = guncel_fiyat_al(guncel_gerekli)
 
     yeni_al_mesajlari = []
     kapanis_mesajlari = []
 
-    for t, df in veriler.items():
-        fiyat = float(df['Close'].iloc[-1])
+    for t in acik_pozisyon_tickerlari:
+        poz = pozisyonlar[t]
+        fiyat = guncel_fiyatlar.get(t)
+        if fiyat is None:
+            fiyat = float(veriler_1s[t]['Close'].iloc[-1])
+        if fiyat <= poz['stop']:
+            kapanis_mesajlari.append(
+                f"🔴 STOP: {t}\nGiriş: {poz['giris']:.2f} → Şu an: {fiyat:.2f} ({(fiyat/poz['giris']-1)*100:.1f}%)"
+            )
+            del pozisyonlar[t]
+        elif fiyat >= poz['hedef']:
+            kapanis_mesajlari.append(
+                f"🎯 HEDEF: {t}\nGiriş: {poz['giris']:.2f} → Şu an: {fiyat:.2f} ({(fiyat/poz['giris']-1)*100:.1f}%)"
+            )
+            del pozisyonlar[t]
 
-        if t in pozisyonlar:
-            poz = pozisyonlar[t]
-            if fiyat <= poz['stop']:
-                kapanis_mesajlari.append(
-                    f"🔴 STOP: {t}\nGiriş: {poz['giris']:.2f} → Şu an: {fiyat:.2f} ({(fiyat/poz['giris']-1)*100:.1f}%)"
-                )
-                del pozisyonlar[t]
-            elif fiyat >= poz['hedef']:
-                kapanis_mesajlari.append(
-                    f"🎯 HEDEF: {t}\nGiriş: {poz['giris']:.2f} → Şu an: {fiyat:.2f} ({(fiyat/poz['giris']-1)*100:.1f}%)"
-                )
-                del pozisyonlar[t]
-            continue
-
-        if MOD == "tarama":
-            try:
-                giris_fiyati = kriterleri_degerlendir(df)
-            except Exception:
-                giris_fiyati = None
-            if giris_fiyati:
-                hedef = giris_fiyati * (1 + HEDEF_YUZDE)
-                stop = giris_fiyati * (1 - STOP_YUZDE)
-                pozisyonlar[t] = {"giris": giris_fiyati, "hedef": hedef, "stop": stop}
-                yeni_al_mesajlari.append(
-                    f"🟢 AL: {t}\nGiriş: {giris_fiyati:.2f}\nHedef: {hedef:.2f} (+%{HEDEF_YUZDE*100:.0f})\nStop: {stop:.2f} (-%{STOP_YUZDE*100:.0f})"
-                )
+    for t in adaylar:
+        giris_fiyati = guncel_fiyatlar.get(t)
+        if giris_fiyati is None:
+            giris_fiyati = float(veriler_1s[t]['Close'].iloc[-1])
+        hedef = giris_fiyati * (1 + HEDEF_YUZDE)
+        stop = giris_fiyati * (1 - STOP_YUZDE)
+        pozisyonlar[t] = {"giris": giris_fiyati, "hedef": hedef, "stop": stop}
+        yeni_al_mesajlari.append(
+            f"🟢 AL: {t}\nGiriş: {giris_fiyati:.2f}\nHedef: {hedef:.2f} (+%{HEDEF_YUZDE*100:.0f})\nStop: {stop:.2f} (-%{STOP_YUZDE*100:.0f})"
+        )
 
     mesaj = ""
     if yeni_al_mesajlari:
@@ -213,9 +232,11 @@ def main():
 
     if MOD == "ozet":
         if pozisyonlar:
+            ozet_gerekli = list(pozisyonlar.keys())
+            ozet_fiyatlar = guncel_fiyat_al(ozet_gerekli)
             satirlar = []
             for t, poz in pozisyonlar.items():
-                fiyat = float(veriler[t]['Close'].iloc[-1]) if t in veriler else poz['giris']
+                fiyat = ozet_fiyatlar.get(t, poz['giris'])
                 degisim = (fiyat / poz['giris'] - 1) * 100
                 satirlar.append(f"{t}: Giriş {poz['giris']:.2f} → Şu an {fiyat:.2f} ({degisim:+.1f}%)")
             mesaj += "🗓️ GÜN SONU AÇIK POZİSYONLAR\n\n" + "\n".join(satirlar)
