@@ -38,7 +38,8 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add pozisyonlar.json islem_gecmisi.csv
+          git add pozisyonlar.json
+          if [ -f islem_gecmisi.csv ]; then git add islem_gecmisi.csv; fi
           git diff --staged --quiet || git commit -m "Pozisyon güncelleme"
           git push
 
@@ -60,6 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add pozisyonlar.json islem_gecmisi.csv
+          git add pozisyonlar.json
+          if [ -f islem_gecmisi.csv ]; then git add islem_gecmisi.csv; fi
           git diff --staged --quiet || git commit -m "Pozisyon güncelleme"
           git push
