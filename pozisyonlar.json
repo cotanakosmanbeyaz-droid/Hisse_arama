@@ -146,13 +146,6 @@
     "zaman": "2026-08-12 12:36",
     "karar": "AL"
   },
-  "GESAN.IS": {
-    "giris_fiyat": 82.69999694824219,
-    "stop_loss": 79.0017,
-    "hedef": 90.0965,
-    "zaman": "2026-08-12 12:36",
-    "karar": "GÜÇLÜ AL"
-  },
   "KGYO.IS": {
     "giris_fiyat": 10.649999618530273,
     "stop_loss": 9.8686,
@@ -201,5 +194,33 @@
     "hedef": 301.0615,
     "zaman": "2026-08-12 12:36",
     "karar": "GÜÇLÜ AL"
+  },
+  "ISFIN.IS": {
+    "giris_fiyat": 20.459999084472656,
+    "stop_loss": 19.923,
+    "hedef": 21.5341,
+    "zaman": "2026-08-12 14:44",
+    "karar": "GÜÇLÜ AL"
+  },
+  "SELEC.IS": {
+    "giris_fiyat": 230.1999969482422,
+    "stop_loss": 214.599,
+    "hedef": 261.402,
+    "zaman": "2026-08-12 14:44",
+    "karar": "GÜÇLÜ AL"
+  },
+  "SILVR.IS": {
+    "giris_fiyat": 2.369999885559082,
+    "stop_loss": 2.2614,
+    "hedef": 2.5872,
+    "zaman": "2026-08-12 14:44",
+    "karar": "AL"
+  },
+  "SVGYO.IS": {
+    "giris_fiyat": 15.319999694824219,
+    "stop_loss": 14.2839,
+    "hedef": 17.3923,
+    "zaman": "2026-08-12 14:44",
+    "karar": "AL"
   }
 }
