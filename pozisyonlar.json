@@ -272,25 +272,11 @@
     "zaman": "2026-08-13 15:34",
     "karar": "GÜÇLÜ AL"
   },
-  "ADEL.IS": {
-    "giris_fiyat": 33.86000061035156,
-    "stop_loss": 31.9252,
-    "hedef": 37.7296,
-    "zaman": "2026-08-13 16:14",
-    "karar": "GÜÇLÜ AL"
-  },
-  "GENIL.IS": {
-    "giris_fiyat": 10.850000381469727,
-    "stop_loss": 9.9847,
-    "hedef": 12.5805,
-    "zaman": "2026-08-13 16:14",
-    "karar": "GÜÇLÜ AL"
-  },
-  "PKART.IS": {
-    "giris_fiyat": 135.39999389648438,
-    "stop_loss": 125.9257,
-    "hedef": 154.3487,
-    "zaman": "2026-08-13 16:14",
+  "ERSU.IS": {
+    "giris_fiyat": 25.15999984741211,
+    "stop_loss": 23.4428,
+    "hedef": 28.5943,
+    "zaman": "2026-08-13 17:35",
     "karar": "GÜÇLÜ AL"
   }
 }
