@@ -69,13 +69,6 @@
     "zaman": "2026-08-12 12:36",
     "karar": "GÜÇLÜ AL"
   },
-  "GENIL.IS": {
-    "giris_fiyat": 11.329999923706055,
-    "stop_loss": 10.5768,
-    "hedef": 12.8363,
-    "zaman": "2026-08-12 12:36",
-    "karar": "AL"
-  },
   "POLHO.IS": {
     "giris_fiyat": 22.100000381469727,
     "stop_loss": 21.4489,
@@ -118,13 +111,6 @@
     "zaman": "2026-08-12 15:32",
     "karar": "AL"
   },
-  "HKTM.IS": {
-    "giris_fiyat": 11.399999618530273,
-    "stop_loss": 10.7691,
-    "hedef": 12.6618,
-    "zaman": "2026-08-12 15:32",
-    "karar": "AL"
-  },
   "MANAS.IS": {
     "giris_fiyat": 30.940000534057617,
     "stop_loss": 29.5607,
@@ -138,13 +124,6 @@
     "hedef": 2194.1015,
     "zaman": "2026-08-12 15:32",
     "karar": "AL"
-  },
-  "ADEL.IS": {
-    "giris_fiyat": 34.040000915527344,
-    "stop_loss": 32.0645,
-    "hedef": 37.9911,
-    "zaman": "2026-08-13 10:46",
-    "karar": "GÜÇLÜ AL"
   },
   "BRKO.IS": {
     "giris_fiyat": 11.5,
@@ -223,13 +202,6 @@
     "zaman": "2026-08-13 12:37",
     "karar": "GÜÇLÜ AL"
   },
-  "PKART.IS": {
-    "giris_fiyat": 133.5,
-    "stop_loss": 125.361,
-    "hedef": 149.778,
-    "zaman": "2026-08-13 12:37",
-    "karar": "GÜÇLÜ AL"
-  },
   "RALYH.IS": {
     "giris_fiyat": 247.89999389648438,
     "stop_loss": 234.5942,
@@ -277,6 +249,34 @@
     "stop_loss": 134.2911,
     "hedef": 148.4179,
     "zaman": "2026-08-13 14:44",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ARMGD.IS": {
+    "giris_fiyat": 204.3000030517578,
+    "stop_loss": 192.1805,
+    "hedef": 228.5389,
+    "zaman": "2026-08-13 15:34",
+    "karar": "AL"
+  },
+  "ERSU.IS": {
+    "giris_fiyat": 25.15999984741211,
+    "stop_loss": 23.4428,
+    "hedef": 28.5943,
+    "zaman": "2026-08-13 15:34",
+    "karar": "GÜÇLÜ AL"
+  },
+  "EUKYO.IS": {
+    "giris_fiyat": 12.899999618530273,
+    "stop_loss": 12.3163,
+    "hedef": 14.0674,
+    "zaman": "2026-08-13 15:34",
+    "karar": "AL"
+  },
+  "RNPOL.IS": {
+    "giris_fiyat": 2.5,
+    "stop_loss": 2.2976,
+    "hedef": 2.9049,
+    "zaman": "2026-08-13 15:34",
     "karar": "GÜÇLÜ AL"
   }
 }
