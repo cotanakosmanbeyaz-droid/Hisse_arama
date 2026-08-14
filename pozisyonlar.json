@@ -335,25 +335,11 @@
     "zaman": "2026-08-14 15:39",
     "karar": "GÜÇLÜ AL"
   },
-  "DESA.IS": {
-    "giris_fiyat": 10.449999809265137,
-    "stop_loss": 9.9083,
-    "hedef": 11.5335,
-    "zaman": "2026-08-14 16:38",
-    "karar": "AL"
-  },
-  "VANGD.IS": {
-    "giris_fiyat": 99.80000305175781,
-    "stop_loss": 93.8213,
-    "hedef": 111.7575,
-    "zaman": "2026-08-14 16:38",
-    "karar": "GÜÇLÜ AL"
-  },
-  "YAYLA.IS": {
-    "giris_fiyat": 23.18000030517578,
-    "stop_loss": 21.1624,
-    "hedef": 27.2152,
-    "zaman": "2026-08-14 16:38",
+  "LRSHO.IS": {
+    "giris_fiyat": 2.890000104904175,
+    "stop_loss": 2.6633,
+    "hedef": 3.3435,
+    "zaman": "2026-08-14 18:09",
     "karar": "AL"
   }
 }
