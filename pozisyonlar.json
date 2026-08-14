@@ -181,13 +181,6 @@
     "zaman": "2026-08-14 10:38",
     "karar": "GÜÇLÜ AL"
   },
-  "DESA.IS": {
-    "giris_fiyat": 10.630000114440918,
-    "stop_loss": 10.1076,
-    "hedef": 11.6748,
-    "zaman": "2026-08-14 10:38",
-    "karar": "AL"
-  },
   "LYDYE.IS": {
     "giris_fiyat": 13930.0,
     "stop_loss": 13325.8399,
@@ -208,13 +201,6 @@
     "hedef": 50.1849,
     "zaman": "2026-08-14 10:38",
     "karar": "GÜÇLÜ AL"
-  },
-  "YBTAS.IS": {
-    "giris_fiyat": 15.0,
-    "stop_loss": 14.5939,
-    "hedef": 15.8122,
-    "zaman": "2026-08-14 10:38",
-    "karar": "AL"
   },
   "AKMGY.IS": {
     "giris_fiyat": 268.5,
@@ -300,13 +286,6 @@
     "zaman": "2026-08-14 12:31",
     "karar": "GÜÇLÜ AL"
   },
-  "YAYLA.IS": {
-    "giris_fiyat": 23.860000610351562,
-    "stop_loss": 21.841,
-    "hedef": 27.8981,
-    "zaman": "2026-08-14 12:31",
-    "karar": "GÜÇLÜ AL"
-  },
   "HKTM.IS": {
     "giris_fiyat": 11.5600004196167,
     "stop_loss": 10.921,
@@ -328,11 +307,39 @@
     "zaman": "2026-08-14 15:09",
     "karar": "GÜÇLÜ AL"
   },
-  "VANGD.IS": {
-    "giris_fiyat": 99.44999694824219,
-    "stop_loss": 93.4697,
-    "hedef": 111.4105,
-    "zaman": "2026-08-14 15:09",
+  "ARSAN.IS": {
+    "giris_fiyat": 3.490000009536743,
+    "stop_loss": 3.361,
+    "hedef": 3.748,
+    "zaman": "2026-08-14 15:39",
+    "karar": "AL"
+  },
+  "BAGFS.IS": {
+    "giris_fiyat": 24.799999237060547,
+    "stop_loss": 23.9946,
+    "hedef": 26.4108,
+    "zaman": "2026-08-14 15:39",
+    "karar": "AL"
+  },
+  "BRKSN.IS": {
+    "giris_fiyat": 8.229999542236328,
+    "stop_loss": 7.908,
+    "hedef": 8.874,
+    "zaman": "2026-08-14 15:39",
+    "karar": "GÜÇLÜ AL"
+  },
+  "LRSHO.IS": {
+    "giris_fiyat": 2.890000104904175,
+    "stop_loss": 2.6633,
+    "hedef": 3.3435,
+    "zaman": "2026-08-14 15:39",
+    "karar": "AL"
+  },
+  "MPARK.IS": {
+    "giris_fiyat": 436.0,
+    "stop_loss": 420.8883,
+    "hedef": 466.2235,
+    "zaman": "2026-08-14 15:39",
     "karar": "GÜÇLÜ AL"
   }
 }
