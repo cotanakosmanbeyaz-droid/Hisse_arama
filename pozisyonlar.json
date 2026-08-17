@@ -111,13 +111,6 @@
     "zaman": "2026-08-14 15:39",
     "karar": "AL"
   },
-  "AKENR.IS": {
-    "giris_fiyat": 10.770000457763672,
-    "stop_loss": 10.2294,
-    "hedef": 11.8513,
-    "zaman": "2026-08-17 09:25",
-    "karar": "GÜÇLÜ AL"
-  },
   "ATATR.IS": {
     "giris_fiyat": 15.319999694824219,
     "stop_loss": 14.3841,
@@ -349,25 +342,32 @@
     "zaman": "2026-08-17 11:56",
     "karar": "AL"
   },
-  "BIGEN.IS": {
-    "giris_fiyat": 133.8000030517578,
-    "stop_loss": 120.5985,
-    "hedef": 160.2031,
-    "zaman": "2026-08-17 13:58",
+  "ARASE.IS": {
+    "giris_fiyat": 124.19999694824219,
+    "stop_loss": 118.0899,
+    "hedef": 136.4202,
+    "zaman": "2026-08-17 14:59",
     "karar": "GÜÇLÜ AL"
   },
-  "ATSYH.IS": {
-    "giris_fiyat": 120.0,
-    "stop_loss": 114.6697,
-    "hedef": 130.6606,
-    "zaman": "2026-08-17 14:07",
+  "EGPRO.IS": {
+    "giris_fiyat": 35.560001373291016,
+    "stop_loss": 34.3117,
+    "hedef": 38.0567,
+    "zaman": "2026-08-17 14:59",
     "karar": "GÜÇLÜ AL"
   },
-  "SNPAM.IS": {
-    "giris_fiyat": 20.100000381469727,
-    "stop_loss": 19.5374,
-    "hedef": 21.2252,
-    "zaman": "2026-08-17 14:07",
+  "FONET.IS": {
+    "giris_fiyat": 5.429999828338623,
+    "stop_loss": 5.1673,
+    "hedef": 5.9554,
+    "zaman": "2026-08-17 14:59",
+    "karar": "AL"
+  },
+  "TMPOL.IS": {
+    "giris_fiyat": 553.5,
+    "stop_loss": 511.8715,
+    "hedef": 636.757,
+    "zaman": "2026-08-17 14:59",
     "karar": "GÜÇLÜ AL"
   }
 }
