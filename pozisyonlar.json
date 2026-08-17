@@ -355,5 +355,19 @@
     "hedef": 160.2031,
     "zaman": "2026-08-17 13:58",
     "karar": "GÜÇLÜ AL"
+  },
+  "ATSYH.IS": {
+    "giris_fiyat": 120.0,
+    "stop_loss": 114.6697,
+    "hedef": 130.6606,
+    "zaman": "2026-08-17 14:07",
+    "karar": "GÜÇLÜ AL"
+  },
+  "SNPAM.IS": {
+    "giris_fiyat": 20.100000381469727,
+    "stop_loss": 19.5374,
+    "hedef": 21.2252,
+    "zaman": "2026-08-17 14:07",
+    "karar": "GÜÇLÜ AL"
   }
 }
