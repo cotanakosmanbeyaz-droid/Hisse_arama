@@ -76,13 +76,6 @@
     "zaman": "2026-08-13 14:44",
     "karar": "GÜÇLÜ AL"
   },
-  "EUKYO.IS": {
-    "giris_fiyat": 12.899999618530273,
-    "stop_loss": 12.3163,
-    "hedef": 14.0674,
-    "zaman": "2026-08-13 15:34",
-    "karar": "AL"
-  },
   "ADEL.IS": {
     "giris_fiyat": 33.86000061035156,
     "stop_loss": 31.9252,
@@ -335,18 +328,11 @@
     "zaman": "2026-08-17 09:25",
     "karar": "AL"
   },
-  "YAYLA.IS": {
-    "giris_fiyat": 23.079999923706055,
-    "stop_loss": 21.0436,
-    "hedef": 27.1528,
-    "zaman": "2026-08-17 09:25",
-    "karar": "AL"
-  },
-  "YUNSA.IS": {
-    "giris_fiyat": 9.020000457763672,
-    "stop_loss": 8.6455,
-    "hedef": 9.769,
-    "zaman": "2026-08-17 09:25",
+  "BYDNR.IS": {
+    "giris_fiyat": 39.400001525878906,
+    "stop_loss": 38.0205,
+    "hedef": 42.1591,
+    "zaman": "2026-08-17 10:06",
     "karar": "AL"
   }
 }
