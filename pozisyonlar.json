@@ -55,13 +55,6 @@
     "zaman": "2026-08-18 15:19",
     "karar": "AL"
   },
-  "CEMZY.IS": {
-    "giris_fiyat": 14.630000114440918,
-    "stop_loss": 13.1684,
-    "hedef": 17.5532,
-    "zaman": "2026-08-18 15:19",
-    "karar": "GÜÇLÜ AL"
-  },
   "AKFIS.IS": {
     "giris_fiyat": 16.149999618530273,
     "stop_loss": 15.0653,
@@ -108,13 +101,6 @@
     "giris_fiyat": 7.789999961853027,
     "stop_loss": 7.2031,
     "hedef": 8.9638,
-    "zaman": "2026-08-19 09:23",
-    "karar": "AL"
-  },
-  "SONME.IS": {
-    "giris_fiyat": 159.0,
-    "stop_loss": 147.0384,
-    "hedef": 182.9232,
     "zaman": "2026-08-19 09:23",
     "karar": "AL"
   },
@@ -222,13 +208,6 @@
     "hedef": 29.4282,
     "zaman": "2026-08-20 09:06",
     "karar": "GÜÇLÜ AL"
-  },
-  "MANAS.IS": {
-    "giris_fiyat": 34.220001220703125,
-    "stop_loss": 32.6944,
-    "hedef": 37.2713,
-    "zaman": "2026-08-20 09:06",
-    "karar": "AL"
   },
   "PARSN.IS": {
     "giris_fiyat": 74.5,
@@ -356,11 +335,46 @@
     "zaman": "2026-08-20 14:11",
     "karar": "AL"
   },
-  "HKTM.IS": {
-    "giris_fiyat": 14.84000015258789,
-    "stop_loss": 13.6106,
-    "hedef": 17.2988,
-    "zaman": "2026-08-20 14:11",
+  "ARSAN.IS": {
+    "giris_fiyat": 3.7200000286102295,
+    "stop_loss": 3.5323,
+    "hedef": 4.0953,
+    "zaman": "2026-08-20 15:05",
     "karar": "GÜÇLÜ AL"
+  },
+  "BLCYT.IS": {
+    "giris_fiyat": 20.280000686645508,
+    "stop_loss": 19.3626,
+    "hedef": 22.1148,
+    "zaman": "2026-08-20 15:05",
+    "karar": "AL"
+  },
+  "EGSER.IS": {
+    "giris_fiyat": 3.0299999713897705,
+    "stop_loss": 2.9202,
+    "hedef": 3.2495,
+    "zaman": "2026-08-20 15:05",
+    "karar": "GÜÇLÜ AL"
+  },
+  "SAYAS.IS": {
+    "giris_fiyat": 58.599998474121094,
+    "stop_loss": 54.7177,
+    "hedef": 66.3646,
+    "zaman": "2026-08-20 15:05",
+    "karar": "AL"
+  },
+  "TERA.IS": {
+    "giris_fiyat": 181.39999389648438,
+    "stop_loss": 175.9093,
+    "hedef": 192.3815,
+    "zaman": "2026-08-20 15:05",
+    "karar": "AL"
+  },
+  "TTRAK.IS": {
+    "giris_fiyat": 441.25,
+    "stop_loss": 428.6704,
+    "hedef": 466.4091,
+    "zaman": "2026-08-20 15:05",
+    "karar": "AL"
   }
 }
