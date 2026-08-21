@@ -48,13 +48,6 @@
     "zaman": "2026-08-19 09:23",
     "karar": "GÜÇLÜ AL"
   },
-  "TURGG.IS": {
-    "giris_fiyat": 27.8799991607666,
-    "stop_loss": 26.582,
-    "hedef": 30.4759,
-    "zaman": "2026-08-19 09:23",
-    "karar": "GÜÇLÜ AL"
-  },
   "DURKN.IS": {
     "giris_fiyat": 21.540000915527344,
     "stop_loss": 20.3277,
@@ -117,13 +110,6 @@
     "hedef": 29.4282,
     "zaman": "2026-08-20 09:06",
     "karar": "GÜÇLÜ AL"
-  },
-  "PARSN.IS": {
-    "giris_fiyat": 74.5,
-    "stop_loss": 71.0438,
-    "hedef": 81.4123,
-    "zaman": "2026-08-20 09:06",
-    "karar": "AL"
   },
   "PETUN.IS": {
     "giris_fiyat": 11.359999656677246,
@@ -243,13 +229,6 @@
     "hedef": 37.0122,
     "zaman": "2026-08-21 09:11",
     "karar": "AL"
-  },
-  "BAGFS.IS": {
-    "giris_fiyat": 26.700000762939453,
-    "stop_loss": 25.564,
-    "hedef": 28.972,
-    "zaman": "2026-08-21 09:11",
-    "karar": "GÜÇLÜ AL"
   },
   "BFREN.IS": {
     "giris_fiyat": 131.6999969482422,
@@ -411,13 +390,6 @@
     "hedef": 155.5787,
     "zaman": "2026-08-21 09:11",
     "karar": "GÜÇLÜ AL"
-  },
-  "PNSUT.IS": {
-    "giris_fiyat": 10.5600004196167,
-    "stop_loss": 10.2741,
-    "hedef": 11.1318,
-    "zaman": "2026-08-21 09:11",
-    "karar": "AL"
   },
   "PRZMA.IS": {
     "giris_fiyat": 85.19999694824219,
