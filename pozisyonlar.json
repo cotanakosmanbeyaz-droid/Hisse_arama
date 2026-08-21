@@ -244,13 +244,6 @@
     "zaman": "2026-08-21 09:11",
     "karar": "AL"
   },
-  "BRSAN.IS": {
-    "giris_fiyat": 689.0,
-    "stop_loss": 653.237,
-    "hedef": 760.526,
-    "zaman": "2026-08-21 09:11",
-    "karar": "AL"
-  },
   "DESA.IS": {
     "giris_fiyat": 10.430000305175781,
     "stop_loss": 9.7419,
@@ -417,6 +410,20 @@
     "stop_loss": 96.5814,
     "hedef": 116.4372,
     "zaman": "2026-08-21 09:11",
+    "karar": "GÜÇLÜ AL"
+  },
+  "BERA.IS": {
+    "giris_fiyat": 13.979999542236328,
+    "stop_loss": 13.4378,
+    "hedef": 15.0645,
+    "zaman": "2026-08-21 10:16",
+    "karar": "GÜÇLÜ AL"
+  },
+  "BLCYT.IS": {
+    "giris_fiyat": 21.65999984741211,
+    "stop_loss": 20.5233,
+    "hedef": 23.9334,
+    "zaman": "2026-08-21 10:16",
     "karar": "GÜÇLÜ AL"
   }
 }
