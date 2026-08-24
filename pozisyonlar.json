@@ -377,13 +377,6 @@
     "zaman": "2026-08-24 09:33",
     "karar": "GÜÇLÜ AL"
   },
-  "OYAKC.IS": {
-    "giris_fiyat": 22.459999084472656,
-    "stop_loss": 21.7345,
-    "hedef": 23.911,
-    "zaman": "2026-08-24 09:33",
-    "karar": "GÜÇLÜ AL"
-  },
   "OYYAT.IS": {
     "giris_fiyat": 36.13999938964844,
     "stop_loss": 34.8356,
@@ -537,5 +530,12 @@
     "hedef": 420.602,
     "zaman": "2026-08-24 11:00",
     "karar": "AL"
+  },
+  "ORGE.IS": {
+    "giris_fiyat": 24.079999923706055,
+    "stop_loss": 22.3544,
+    "hedef": 27.5313,
+    "zaman": "2026-08-24 11:15",
+    "karar": "GÜÇLÜ AL"
   }
 }
