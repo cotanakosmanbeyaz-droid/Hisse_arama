@@ -1,11 +1,4 @@
 {
-  "ARASE.IS": {
-    "giris_fiyat": 121.0,
-    "stop_loss": 114.1841,
-    "hedef": 134.6318,
-    "zaman": "2026-08-18 09:20",
-    "karar": "GÜÇLÜ AL"
-  },
   "DYOBY.IS": {
     "giris_fiyat": 13.609999656677246,
     "stop_loss": 12.8671,
@@ -110,13 +103,6 @@
     "hedef": 343.0881,
     "zaman": "2026-08-21 09:11",
     "karar": "GÜÇLÜ AL"
-  },
-  "GUBRF.IS": {
-    "giris_fiyat": 465.25,
-    "stop_loss": 440.8005,
-    "hedef": 514.149,
-    "zaman": "2026-08-21 09:11",
-    "karar": "AL"
   },
   "ISKPL.IS": {
     "giris_fiyat": 8.479999542236328,
@@ -283,13 +269,6 @@
     "giris_fiyat": 26.239999771118164,
     "stop_loss": 24.6984,
     "hedef": 29.3231,
-    "zaman": "2026-08-24 09:33",
-    "karar": "GÜÇLÜ AL"
-  },
-  "FENER.IS": {
-    "giris_fiyat": 3.2100000381469727,
-    "stop_loss": 3.0814,
-    "hedef": 3.4673,
     "zaman": "2026-08-24 09:33",
     "karar": "GÜÇLÜ AL"
   },
@@ -572,5 +551,19 @@
     "hedef": 68.3103,
     "zaman": "2026-08-24 12:01",
     "karar": "GÜÇLÜ AL"
+  },
+  "CMBTN.IS": {
+    "giris_fiyat": 1625.0,
+    "stop_loss": 1564.6791,
+    "hedef": 1745.6419,
+    "zaman": "2026-08-24 14:27",
+    "karar": "GÜÇLÜ AL"
+  },
+  "TLMAN.IS": {
+    "giris_fiyat": 84.9000015258789,
+    "stop_loss": 82.1555,
+    "hedef": 90.3889,
+    "zaman": "2026-08-24 14:27",
+    "karar": "AL"
   }
 }
