@@ -524,40 +524,12 @@
     "zaman": "2026-08-24 15:22",
     "karar": "AL"
   },
-  "BASGZ.IS": {
-    "giris_fiyat": 45.0,
-    "stop_loss": 43.5225,
-    "hedef": 47.955,
-    "zaman": "2026-08-24 15:22",
-    "karar": "GÜÇLÜ AL"
-  },
-  "BJKAS.IS": {
-    "giris_fiyat": 2.7899999618530273,
-    "stop_loss": 2.5227,
-    "hedef": 3.3246,
-    "zaman": "2026-08-24 15:22",
-    "karar": "GÜÇLÜ AL"
-  },
-  "ECZYT.IS": {
-    "giris_fiyat": 325.0,
-    "stop_loss": 314.9466,
-    "hedef": 345.1067,
-    "zaman": "2026-08-24 15:22",
-    "karar": "GÜÇLÜ AL"
-  },
   "GSDDE.IS": {
     "giris_fiyat": 14.550000190734863,
     "stop_loss": 13.5714,
     "hedef": 16.5072,
     "zaman": "2026-08-24 15:22",
     "karar": "AL"
-  },
-  "GSRAY.IS": {
-    "giris_fiyat": 1.1299999952316284,
-    "stop_loss": 1.0744,
-    "hedef": 1.2412,
-    "zaman": "2026-08-24 15:22",
-    "karar": "GÜÇLÜ AL"
   },
   "GUBRF.IS": {
     "giris_fiyat": 492.75,
@@ -570,13 +542,6 @@
     "giris_fiyat": 2000.0,
     "stop_loss": 1777.0142,
     "hedef": 2445.9716,
-    "zaman": "2026-08-24 15:22",
-    "karar": "AL"
-  },
-  "HATEK.IS": {
-    "giris_fiyat": 13.050000190734863,
-    "stop_loss": 12.1412,
-    "hedef": 14.8677,
     "zaman": "2026-08-24 15:22",
     "karar": "AL"
   },
@@ -593,13 +558,6 @@
     "hedef": 10.3591,
     "zaman": "2026-08-24 15:22",
     "karar": "AL"
-  },
-  "OTKAR.IS": {
-    "giris_fiyat": 329.5,
-    "stop_loss": 315.6579,
-    "hedef": 357.1842,
-    "zaman": "2026-08-24 15:22",
-    "karar": "GÜÇLÜ AL"
   },
   "OZATD.IS": {
     "giris_fiyat": 4600.0,
@@ -634,6 +592,41 @@
     "stop_loss": 1.9016,
     "hedef": 2.1068,
     "zaman": "2026-08-24 15:22",
+    "karar": "AL"
+  },
+  "BIGTK.IS": {
+    "giris_fiyat": 346.0,
+    "stop_loss": 319.8889,
+    "hedef": 398.2222,
+    "zaman": "2026-08-24 16:05",
+    "karar": "GÜÇLÜ AL"
+  },
+  "CMBTN.IS": {
+    "giris_fiyat": 1614.0,
+    "stop_loss": 1552.2505,
+    "hedef": 1737.499,
+    "zaman": "2026-08-24 16:05",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ISBTR.IS": {
+    "giris_fiyat": 521005.0,
+    "stop_loss": 499044.308,
+    "hedef": 564926.384,
+    "zaman": "2026-08-24 16:05",
+    "karar": "AL"
+  },
+  "KLYPV.IS": {
+    "giris_fiyat": 68.3499984741211,
+    "stop_loss": 65.09,
+    "hedef": 74.87,
+    "zaman": "2026-08-24 16:05",
+    "karar": "AL"
+  },
+  "TLMAN.IS": {
+    "giris_fiyat": 85.1500015258789,
+    "stop_loss": 82.3055,
+    "hedef": 90.8389,
+    "zaman": "2026-08-24 16:05",
     "karar": "AL"
   }
 }
