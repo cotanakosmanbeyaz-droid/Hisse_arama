@@ -523,5 +523,19 @@
     "hedef": 101.7805,
     "zaman": "2026-08-25 09:57",
     "karar": "AL"
+  },
+  "CEMAS.IS": {
+    "giris_fiyat": 4.489999771118164,
+    "stop_loss": 4.324,
+    "hedef": 4.8221,
+    "zaman": "2026-08-25 10:19",
+    "karar": "AL"
+  },
+  "GLCVY.IS": {
+    "giris_fiyat": 55.29999923706055,
+    "stop_loss": 52.9622,
+    "hedef": 59.9756,
+    "zaman": "2026-08-25 10:19",
+    "karar": "AL"
   }
 }
