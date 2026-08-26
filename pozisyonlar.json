@@ -307,13 +307,6 @@
     "zaman": "2026-08-25 14:30",
     "karar": "GÜÇLÜ AL"
   },
-  "TEKTU.IS": {
-    "giris_fiyat": 7.980000019073486,
-    "stop_loss": 7.5431,
-    "hedef": 8.8537,
-    "zaman": "2026-08-25 14:30",
-    "karar": "AL"
-  },
   "AKSGY.IS": {
     "giris_fiyat": 10.210000038146973,
     "stop_loss": 9.9369,
@@ -531,18 +524,39 @@
     "zaman": "2026-08-26 10:56",
     "karar": "GÜÇLÜ AL"
   },
-  "SNPAM.IS": {
-    "giris_fiyat": 20.700000762939453,
-    "stop_loss": 20.196,
-    "hedef": 21.708,
-    "zaman": "2026-08-26 10:56",
-    "karar": "AL"
-  },
   "TSPOR.IS": {
     "giris_fiyat": 1.2200000286102295,
     "stop_loss": 1.1429,
     "hedef": 1.3742,
     "zaman": "2026-08-26 10:56",
+    "karar": "GÜÇLÜ AL"
+  },
+  "GARAN.IS": {
+    "giris_fiyat": 135.39999389648438,
+    "stop_loss": 131.3967,
+    "hedef": 143.4067,
+    "zaman": "2026-08-26 11:17",
+    "karar": "GÜÇLÜ AL"
+  },
+  "MAKTK.IS": {
+    "giris_fiyat": 10.6899995803833,
+    "stop_loss": 10.2483,
+    "hedef": 11.5733,
+    "zaman": "2026-08-26 11:17",
+    "karar": "AL"
+  },
+  "PLTUR.IS": {
+    "giris_fiyat": 21.6200008392334,
+    "stop_loss": 20.3105,
+    "hedef": 24.239,
+    "zaman": "2026-08-26 11:17",
+    "karar": "AL"
+  },
+  "TGSAS.IS": {
+    "giris_fiyat": 226.39999389648438,
+    "stop_loss": 205.7138,
+    "hedef": 267.7723,
+    "zaman": "2026-08-26 11:17",
     "karar": "GÜÇLÜ AL"
   }
 }
