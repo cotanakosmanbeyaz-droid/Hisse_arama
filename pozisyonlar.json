@@ -41,20 +41,6 @@
     "zaman": "2026-08-24 16:05",
     "karar": "AL"
   },
-  "OTKAR.IS": {
-    "giris_fiyat": 329.5,
-    "stop_loss": 315.6576,
-    "hedef": 357.1848,
-    "zaman": "2026-08-24 17:06",
-    "karar": "GÜÇLÜ AL"
-  },
-  "AGESA.IS": {
-    "giris_fiyat": 244.89999389648438,
-    "stop_loss": 235.7671,
-    "hedef": 263.1657,
-    "zaman": "2026-08-25 12:02",
-    "karar": "AL"
-  },
   "ENJSA.IS": {
     "giris_fiyat": 113.9000015258789,
     "stop_loss": 109.6966,
@@ -111,13 +97,6 @@
     "zaman": "2026-08-26 16:39",
     "karar": "AL"
   },
-  "KLGYO.IS": {
-    "giris_fiyat": 5.019999980926514,
-    "stop_loss": 4.7882,
-    "hedef": 5.4837,
-    "zaman": "2026-08-26 16:39",
-    "karar": "AL"
-  },
   "ETYAT.IS": {
     "giris_fiyat": 16.0,
     "stop_loss": 14.9307,
@@ -145,13 +124,6 @@
     "hedef": 12.2635,
     "zaman": "2026-08-28 21:33",
     "karar": "AL"
-  },
-  "BIENY.IS": {
-    "giris_fiyat": 22.420000076293945,
-    "stop_loss": 21.5524,
-    "hedef": 24.1552,
-    "zaman": "2026-08-31 07:08",
-    "karar": "GÜÇLÜ AL"
   },
   "ODAS.IS": {
     "giris_fiyat": 7.480000019073486,
@@ -216,13 +188,6 @@
     "zaman": "2026-08-31 09:07",
     "karar": "GÜÇLÜ AL"
   },
-  "IHEVA.IS": {
-    "giris_fiyat": 2.0,
-    "stop_loss": 1.9506,
-    "hedef": 2.0988,
-    "zaman": "2026-08-31 09:07",
-    "karar": "GÜÇLÜ AL"
-  },
   "MAALT.IS": {
     "giris_fiyat": 1052.0,
     "stop_loss": 1006.0227,
@@ -241,13 +206,6 @@
     "giris_fiyat": 1.5199999809265137,
     "stop_loss": 1.4119,
     "hedef": 1.7361,
-    "zaman": "2026-08-31 09:07",
-    "karar": "GÜÇLÜ AL"
-  },
-  "OYYAT.IS": {
-    "giris_fiyat": 36.939998626708984,
-    "stop_loss": 35.4981,
-    "hedef": 39.8238,
     "zaman": "2026-08-31 09:07",
     "karar": "GÜÇLÜ AL"
   },
@@ -284,6 +242,27 @@
     "stop_loss": 1.9853,
     "hedef": 2.1493,
     "zaman": "2026-08-31 09:07",
+    "karar": "AL"
+  },
+  "EUREN.IS": {
+    "giris_fiyat": 4.110000133514404,
+    "stop_loss": 3.9648,
+    "hedef": 4.4005,
+    "zaman": "2026-08-31 10:04",
+    "karar": "AL"
+  },
+  "KUVVA.IS": {
+    "giris_fiyat": 194.3000030517578,
+    "stop_loss": 180.3555,
+    "hedef": 222.1891,
+    "zaman": "2026-08-31 10:04",
+    "karar": "GÜÇLÜ AL"
+  },
+  "OZATD.IS": {
+    "giris_fiyat": 4867.5,
+    "stop_loss": 4587.0974,
+    "hedef": 5428.3051,
+    "zaman": "2026-08-31 10:04",
     "karar": "AL"
   }
 }
