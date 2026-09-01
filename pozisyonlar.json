@@ -41,13 +41,6 @@
     "zaman": "2026-08-31 11:09",
     "karar": "GÜÇLÜ AL"
   },
-  "PAPIL.IS": {
-    "giris_fiyat": 14.199999809265137,
-    "stop_loss": 13.3237,
-    "hedef": 15.9526,
-    "zaman": "2026-08-31 12:07",
-    "karar": "AL"
-  },
   "KLGYO.IS": {
     "giris_fiyat": 5.050000190734863,
     "stop_loss": 4.7852,
@@ -139,18 +132,18 @@
     "zaman": "2026-09-01 09:12",
     "karar": "GÜÇLÜ AL"
   },
-  "EUREN.IS": {
-    "giris_fiyat": 4.0,
-    "stop_loss": 3.8295,
-    "hedef": 4.341,
-    "zaman": "2026-09-01 09:12",
-    "karar": "GÜÇLÜ AL"
-  },
   "IHLGM.IS": {
     "giris_fiyat": 1.6200000047683716,
     "stop_loss": 1.5748,
     "hedef": 1.7104,
     "zaman": "2026-09-01 09:12",
+    "karar": "GÜÇLÜ AL"
+  },
+  "OYYAT.IS": {
+    "giris_fiyat": 39.619998931884766,
+    "stop_loss": 37.7117,
+    "hedef": 43.4365,
+    "zaman": "2026-09-01 10:05",
     "karar": "GÜÇLÜ AL"
   }
 }
