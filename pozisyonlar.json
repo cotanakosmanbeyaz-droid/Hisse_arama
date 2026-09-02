@@ -20,13 +20,6 @@
     "zaman": "2026-08-31 13:07",
     "karar": "GÜÇLÜ AL"
   },
-  "OZATD.IS": {
-    "giris_fiyat": 4860.0,
-    "stop_loss": 4589.4731,
-    "hedef": 5401.0538,
-    "zaman": "2026-08-31 15:08",
-    "karar": "AL"
-  },
   "ENERY.IS": {
     "giris_fiyat": 10.170000076293945,
     "stop_loss": 9.6837,
@@ -90,11 +83,11 @@
     "zaman": "2026-09-02 09:13",
     "karar": "GÜÇLÜ AL"
   },
-  "TUPRS.IS": {
-    "giris_fiyat": 396.75,
-    "stop_loss": 379.9357,
-    "hedef": 430.3786,
-    "zaman": "2026-09-02 09:13",
+  "SKTAS.IS": {
+    "giris_fiyat": 3.359999895095825,
+    "stop_loss": 3.1937,
+    "hedef": 3.6926,
+    "zaman": "2026-09-02 10:05",
     "karar": "GÜÇLÜ AL"
   }
 }
