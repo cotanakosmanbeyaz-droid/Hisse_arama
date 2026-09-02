@@ -61,5 +61,26 @@
     "hedef": 54.5657,
     "zaman": "2026-09-02 08:11",
     "karar": "GÜÇLÜ AL"
+  },
+  "CRDFA.IS": {
+    "giris_fiyat": 27.920000076293945,
+    "stop_loss": 25.6681,
+    "hedef": 32.4238,
+    "zaman": "2026-09-02 12:16",
+    "karar": "AL"
+  },
+  "KARSN.IS": {
+    "giris_fiyat": 11.300000190734863,
+    "stop_loss": 10.6698,
+    "hedef": 12.5603,
+    "zaman": "2026-09-02 12:16",
+    "karar": "AL"
+  },
+  "TURGG.IS": {
+    "giris_fiyat": 30.719999313354492,
+    "stop_loss": 28.7461,
+    "hedef": 34.6678,
+    "zaman": "2026-09-02 12:16",
+    "karar": "GÜÇLÜ AL"
   }
 }
