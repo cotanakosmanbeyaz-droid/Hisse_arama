@@ -124,5 +124,19 @@
     "hedef": 2.6397,
     "zaman": "2026-09-03 09:13",
     "karar": "GÜÇLÜ AL"
+  },
+  "EUKYO.IS": {
+    "giris_fiyat": 13.609999656677246,
+    "stop_loss": 12.864,
+    "hedef": 15.102,
+    "zaman": "2026-09-03 10:04",
+    "karar": "GÜÇLÜ AL"
+  },
+  "VESBE.IS": {
+    "giris_fiyat": 5.809999942779541,
+    "stop_loss": 5.5184,
+    "hedef": 6.3931,
+    "zaman": "2026-09-03 10:04",
+    "karar": "AL"
   }
 }
