@@ -69,13 +69,6 @@
     "zaman": "2026-09-04 08:12",
     "karar": "GÜÇLÜ AL"
   },
-  "HLGYO.IS": {
-    "giris_fiyat": 4.5,
-    "stop_loss": 4.302,
-    "hedef": 4.8959,
-    "zaman": "2026-09-04 08:12",
-    "karar": "AL"
-  },
   "TRCAS.IS": {
     "giris_fiyat": 48.47999954223633,
     "stop_loss": 46.5716,
@@ -146,18 +139,11 @@
     "zaman": "2026-09-04 10:04",
     "karar": "GÜÇLÜ AL"
   },
-  "KZGYO.IS": {
-    "giris_fiyat": 22.479999542236328,
-    "stop_loss": 21.2983,
-    "hedef": 24.8434,
-    "zaman": "2026-09-04 11:14",
-    "karar": "AL"
-  },
-  "SNPAM.IS": {
-    "giris_fiyat": 21.899999618530273,
-    "stop_loss": 21.1939,
-    "hedef": 23.3121,
-    "zaman": "2026-09-04 11:14",
+  "AVOD.IS": {
+    "giris_fiyat": 4.53000020980835,
+    "stop_loss": 4.2427,
+    "hedef": 5.1047,
+    "zaman": "2026-09-04 12:14",
     "karar": "GÜÇLÜ AL"
   }
 }
