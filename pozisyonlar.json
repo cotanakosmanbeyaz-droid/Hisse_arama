@@ -55,13 +55,6 @@
     "zaman": "2026-09-03 15:13",
     "karar": "AL"
   },
-  "AVOD.IS": {
-    "giris_fiyat": 4.21999979019165,
-    "stop_loss": 3.9766,
-    "hedef": 4.7068,
-    "zaman": "2026-09-04 08:12",
-    "karar": "GÜÇLÜ AL"
-  },
   "BOBET.IS": {
     "giris_fiyat": 23.100000381469727,
     "stop_loss": 21.6708,
@@ -151,6 +144,20 @@
     "stop_loss": 6.9943,
     "hedef": 8.2115,
     "zaman": "2026-09-04 10:04",
+    "karar": "GÜÇLÜ AL"
+  },
+  "KZGYO.IS": {
+    "giris_fiyat": 22.479999542236328,
+    "stop_loss": 21.2983,
+    "hedef": 24.8434,
+    "zaman": "2026-09-04 11:14",
+    "karar": "AL"
+  },
+  "SNPAM.IS": {
+    "giris_fiyat": 21.899999618530273,
+    "stop_loss": 21.1939,
+    "hedef": 23.3121,
+    "zaman": "2026-09-04 11:14",
     "karar": "GÜÇLÜ AL"
   }
 }
