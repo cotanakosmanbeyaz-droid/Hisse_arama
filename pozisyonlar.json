@@ -104,11 +104,18 @@
     "zaman": "2026-09-04 13:12",
     "karar": "AL"
   },
-  "KONYA.IS": {
-    "giris_fiyat": 3870.0,
-    "stop_loss": 3721.9554,
-    "hedef": 4166.0892,
-    "zaman": "2026-09-04 14:11",
+  "KUYAS.IS": {
+    "giris_fiyat": 68.44999694824219,
+    "stop_loss": 64.9308,
+    "hedef": 75.4884,
+    "zaman": "2026-09-04 15:13",
+    "karar": "AL"
+  },
+  "SNPAM.IS": {
+    "giris_fiyat": 21.899999618530273,
+    "stop_loss": 21.1939,
+    "hedef": 23.3121,
+    "zaman": "2026-09-04 15:13",
     "karar": "GÜÇLÜ AL"
   }
 }
