@@ -34,13 +34,6 @@
     "zaman": "2026-09-04 10:04",
     "karar": "GÜÇLÜ AL"
   },
-  "KUYAS.IS": {
-    "giris_fiyat": 68.44999694824219,
-    "stop_loss": 64.9308,
-    "hedef": 75.4884,
-    "zaman": "2026-09-04 15:13",
-    "karar": "AL"
-  },
   "ISSEN.IS": {
     "giris_fiyat": 7.03000020980835,
     "stop_loss": 6.7259,
@@ -89,13 +82,6 @@
     "hedef": 57.6283,
     "zaman": "2026-09-07 09:14",
     "karar": "GÜÇLÜ AL"
-  },
-  "ISMEN.IS": {
-    "giris_fiyat": 33.880001068115234,
-    "stop_loss": 32.6385,
-    "hedef": 36.3631,
-    "zaman": "2026-09-07 09:14",
-    "karar": "AL"
   },
   "KCHOL.IS": {
     "giris_fiyat": 217.6999969482422,
@@ -228,6 +214,13 @@
     "stop_loss": 28.2932,
     "hedef": 36.5336,
     "zaman": "2026-09-07 13:13",
+    "karar": "GÜÇLÜ AL"
+  },
+  "BALAT.IS": {
+    "giris_fiyat": 77.94999694824219,
+    "stop_loss": 75.7931,
+    "hedef": 82.2637,
+    "zaman": "2026-09-07 14:13",
     "karar": "GÜÇLÜ AL"
   }
 }
