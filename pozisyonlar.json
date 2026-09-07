@@ -159,5 +159,19 @@
     "hedef": 299.0582,
     "zaman": "2026-09-07 09:14",
     "karar": "GÜÇLÜ AL"
+  },
+  "DENGE.IS": {
+    "giris_fiyat": 2.5199999809265137,
+    "stop_loss": 2.3955,
+    "hedef": 2.769,
+    "zaman": "2026-09-07 10:04",
+    "karar": "AL"
+  },
+  "INDES.IS": {
+    "giris_fiyat": 11.899999618530273,
+    "stop_loss": 11.4606,
+    "hedef": 12.7788,
+    "zaman": "2026-09-07 10:04",
+    "karar": "AL"
   }
 }
