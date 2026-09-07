@@ -111,13 +111,6 @@
     "zaman": "2026-09-07 11:15",
     "karar": "GÜÇLÜ AL"
   },
-  "GMTAS.IS": {
-    "giris_fiyat": 48.31999969482422,
-    "stop_loss": 46.282,
-    "hedef": 52.3961,
-    "zaman": "2026-09-07 11:15",
-    "karar": "AL"
-  },
   "KLSYN.IS": {
     "giris_fiyat": 16.110000610351562,
     "stop_loss": 15.4255,
@@ -216,11 +209,25 @@
     "zaman": "2026-09-07 13:13",
     "karar": "GÜÇLÜ AL"
   },
-  "BALAT.IS": {
-    "giris_fiyat": 77.94999694824219,
-    "stop_loss": 75.7931,
-    "hedef": 82.2637,
-    "zaman": "2026-09-07 14:13",
+  "AGHOL.IS": {
+    "giris_fiyat": 34.439998626708984,
+    "stop_loss": 33.1989,
+    "hedef": 36.9223,
+    "zaman": "2026-09-07 15:13",
+    "karar": "AL"
+  },
+  "ISMEN.IS": {
+    "giris_fiyat": 34.08000183105469,
+    "stop_loss": 32.9036,
+    "hedef": 36.4329,
+    "zaman": "2026-09-07 15:13",
+    "karar": "AL"
+  },
+  "MCARD.IS": {
+    "giris_fiyat": 168.5,
+    "stop_loss": 156.1256,
+    "hedef": 193.2488,
+    "zaman": "2026-09-07 15:13",
     "karar": "GÜÇLÜ AL"
   }
 }
