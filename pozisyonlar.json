@@ -6,13 +6,6 @@
     "zaman": "2026-09-03 09:13",
     "karar": "GÜÇLÜ AL"
   },
-  "HALKB.IS": {
-    "giris_fiyat": 49.439998626708984,
-    "stop_loss": 46.1267,
-    "hedef": 56.0665,
-    "zaman": "2026-09-03 09:13",
-    "karar": "AL"
-  },
   "DSTKF.IS": {
     "giris_fiyat": 2231.0,
     "stop_loss": 2014.039,
@@ -48,13 +41,6 @@
     "zaman": "2026-09-04 09:13",
     "karar": "GÜÇLÜ AL"
   },
-  "ISMEN.IS": {
-    "giris_fiyat": 34.900001525878906,
-    "stop_loss": 33.7792,
-    "hedef": 37.1415,
-    "zaman": "2026-09-04 09:13",
-    "karar": "GÜÇLÜ AL"
-  },
   "KRPLS.IS": {
     "giris_fiyat": 10.899999618530273,
     "stop_loss": 10.2287,
@@ -83,24 +69,10 @@
     "zaman": "2026-09-04 10:04",
     "karar": "GÜÇLÜ AL"
   },
-  "AVOD.IS": {
-    "giris_fiyat": 4.53000020980835,
-    "stop_loss": 4.2427,
-    "hedef": 5.1047,
-    "zaman": "2026-09-04 12:14",
-    "karar": "GÜÇLÜ AL"
-  },
   "HLGYO.IS": {
     "giris_fiyat": 4.539999961853027,
     "stop_loss": 4.323,
     "hedef": 4.974,
-    "zaman": "2026-09-04 13:12",
-    "karar": "AL"
-  },
-  "KZGYO.IS": {
-    "giris_fiyat": 22.100000381469727,
-    "stop_loss": 20.8526,
-    "hedef": 24.5949,
     "zaman": "2026-09-04 13:12",
     "karar": "AL"
   },
@@ -130,6 +102,48 @@
     "stop_loss": 3758.9586,
     "hedef": 4197.0828,
     "zaman": "2026-09-07 07:16",
+    "karar": "GÜÇLÜ AL"
+  },
+  "BLCYT.IS": {
+    "giris_fiyat": 2.299999952316284,
+    "stop_loss": 2.0983,
+    "hedef": 2.7034,
+    "zaman": "2026-09-07 08:13",
+    "karar": "GÜÇLÜ AL"
+  },
+  "BOBET.IS": {
+    "giris_fiyat": 21.959999084472656,
+    "stop_loss": 20.4876,
+    "hedef": 24.9049,
+    "zaman": "2026-09-07 08:13",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ISDMR.IS": {
+    "giris_fiyat": 57.349998474121094,
+    "stop_loss": 54.4187,
+    "hedef": 63.2127,
+    "zaman": "2026-09-07 08:13",
+    "karar": "GÜÇLÜ AL"
+  },
+  "PETUN.IS": {
+    "giris_fiyat": 12.140000343322754,
+    "stop_loss": 11.5236,
+    "hedef": 13.3728,
+    "zaman": "2026-09-07 08:13",
+    "karar": "GÜÇLÜ AL"
+  },
+  "PNSUT.IS": {
+    "giris_fiyat": 12.15999984741211,
+    "stop_loss": 11.3544,
+    "hedef": 13.7712,
+    "zaman": "2026-09-07 08:13",
+    "karar": "GÜÇLÜ AL"
+  },
+  "VESBE.IS": {
+    "giris_fiyat": 5.900000095367432,
+    "stop_loss": 5.4999,
+    "hedef": 6.7001,
+    "zaman": "2026-09-07 08:13",
     "karar": "GÜÇLÜ AL"
   }
 }
