@@ -586,5 +586,40 @@
     "hedef": 39.5902,
     "zaman": "2026-09-09 13:30",
     "karar": "GÜÇLÜ AL"
+  },
+  "DNISI.IS": {
+    "giris_fiyat": 4.869999885559082,
+    "stop_loss": 4.6691,
+    "hedef": 5.2719,
+    "zaman": "2026-09-09 14:03",
+    "karar": "AL"
+  },
+  "KRDMD.IS": {
+    "giris_fiyat": 48.0,
+    "stop_loss": 45.9926,
+    "hedef": 52.0148,
+    "zaman": "2026-09-09 14:03",
+    "karar": "AL"
+  },
+  "MNDRS.IS": {
+    "giris_fiyat": 11.59000015258789,
+    "stop_loss": 11.1486,
+    "hedef": 12.4729,
+    "zaman": "2026-09-09 14:03",
+    "karar": "AL"
+  },
+  "OYAKC.IS": {
+    "giris_fiyat": 22.639999389648438,
+    "stop_loss": 21.9321,
+    "hedef": 24.0557,
+    "zaman": "2026-09-09 14:03",
+    "karar": "AL"
+  },
+  "PAPIL.IS": {
+    "giris_fiyat": 13.170000076293945,
+    "stop_loss": 12.406,
+    "hedef": 14.6981,
+    "zaman": "2026-09-09 14:03",
+    "karar": "AL"
   }
 }
