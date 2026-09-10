@@ -356,18 +356,18 @@
     "zaman": "2026-09-10 15:54",
     "karar": "GÜÇLÜ AL"
   },
-  "ALBRK.IS": {
-    "giris_fiyat": 9.15999984741211,
-    "stop_loss": 8.7945,
-    "hedef": 9.891,
-    "zaman": "2026-09-10 17:31",
+  "GENIL.IS": {
+    "giris_fiyat": 11.899999618530273,
+    "stop_loss": 11.1686,
+    "hedef": 13.3627,
+    "zaman": "2026-09-10 18:12",
     "karar": "AL"
   },
-  "PETKM.IS": {
-    "giris_fiyat": 24.780000686645508,
-    "stop_loss": 22.9007,
-    "hedef": 28.5387,
-    "zaman": "2026-09-10 17:31",
+  "SASA.IS": {
+    "giris_fiyat": 2.7799999713897705,
+    "stop_loss": 2.5729,
+    "hedef": 3.1942,
+    "zaman": "2026-09-10 18:12",
     "karar": "GÜÇLÜ AL"
   }
 }
