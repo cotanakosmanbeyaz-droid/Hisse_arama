@@ -6,33 +6,12 @@
     "zaman": "2026-09-03 15:13",
     "karar": "AL"
   },
-  "DZGYO.IS": {
-    "giris_fiyat": 7.400000095367432,
-    "stop_loss": 6.9943,
-    "hedef": 8.2115,
-    "zaman": "2026-09-04 10:04",
-    "karar": "GÜÇLÜ AL"
-  },
-  "FLAP.IS": {
-    "giris_fiyat": 11.329999923706055,
-    "stop_loss": 10.5227,
-    "hedef": 12.9446,
-    "zaman": "2026-09-07 13:13",
-    "karar": "AL"
-  },
   "GENKM.IS": {
     "giris_fiyat": 11.029999732971191,
     "stop_loss": 10.2945,
     "hedef": 12.5011,
     "zaman": "2026-09-07 13:13",
     "karar": "AL"
-  },
-  "TRCAS.IS": {
-    "giris_fiyat": 49.2599983215332,
-    "stop_loss": 47.2562,
-    "hedef": 53.2676,
-    "zaman": "2026-09-08 09:13",
-    "karar": "GÜÇLÜ AL"
   },
   "ARCLK.IS": {
     "giris_fiyat": 94.75,
@@ -97,13 +76,6 @@
     "zaman": "2026-09-09 18:21",
     "karar": "AL"
   },
-  "HEKTS.IS": {
-    "giris_fiyat": 2.880000114440918,
-    "stop_loss": 2.7124,
-    "hedef": 3.2153,
-    "zaman": "2026-09-09 18:21",
-    "karar": "GÜÇLÜ AL"
-  },
   "PGSUS.IS": {
     "giris_fiyat": 154.10000610351562,
     "stop_loss": 149.8685,
@@ -131,27 +103,6 @@
     "hedef": 7.3027,
     "zaman": "2026-09-10 12:07",
     "karar": "AL"
-  },
-  "AKFYE.IS": {
-    "giris_fiyat": 28.15999984741211,
-    "stop_loss": 26.5722,
-    "hedef": 31.3356,
-    "zaman": "2026-09-10 13:22",
-    "karar": "AL"
-  },
-  "ARASE.IS": {
-    "giris_fiyat": 123.30000305175781,
-    "stop_loss": 117.6576,
-    "hedef": 134.5849,
-    "zaman": "2026-09-10 13:22",
-    "karar": "GÜÇLÜ AL"
-  },
-  "BASGZ.IS": {
-    "giris_fiyat": 45.5,
-    "stop_loss": 44.6457,
-    "hedef": 47.2086,
-    "zaman": "2026-09-10 13:22",
-    "karar": "GÜÇLÜ AL"
   },
   "EGEEN.IS": {
     "giris_fiyat": 5492.5,
@@ -375,6 +326,13 @@
     "stop_loss": 51.7393,
     "hedef": 60.0215,
     "zaman": "2026-09-11 13:19",
+    "karar": "AL"
+  },
+  "LKMNH.IS": {
+    "giris_fiyat": 13.649999618530273,
+    "stop_loss": 13.0914,
+    "hedef": 14.7672,
+    "zaman": "2026-09-11 13:58",
     "karar": "AL"
   }
 }
