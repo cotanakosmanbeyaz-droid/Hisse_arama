@@ -293,11 +293,25 @@
     "zaman": "2026-09-14 15:44",
     "karar": "AL"
   },
-  "PGSUS.IS": {
-    "giris_fiyat": 156.8000030517578,
-    "stop_loss": 151.453,
-    "hedef": 167.494,
-    "zaman": "2026-09-14 17:46",
+  "DURDO.IS": {
+    "giris_fiyat": 5.199999809265137,
+    "stop_loss": 5.05,
+    "hedef": 5.5,
+    "zaman": "2026-09-14 18:22",
+    "karar": "GÜÇLÜ AL"
+  },
+  "EGGUB.IS": {
+    "giris_fiyat": 111.5,
+    "stop_loss": 107.1742,
+    "hedef": 120.1516,
+    "zaman": "2026-09-14 18:22",
+    "karar": "AL"
+  },
+  "IHGZT.IS": {
+    "giris_fiyat": 1.2599999904632568,
+    "stop_loss": 1.1874,
+    "hedef": 1.4053,
+    "zaman": "2026-09-14 18:22",
     "karar": "GÜÇLÜ AL"
   }
 }
