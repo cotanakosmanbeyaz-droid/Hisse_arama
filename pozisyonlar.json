@@ -6,13 +6,6 @@
     "zaman": "2026-09-03 15:13",
     "karar": "AL"
   },
-  "ARCLK.IS": {
-    "giris_fiyat": 94.75,
-    "stop_loss": 92.4382,
-    "hedef": 99.3735,
-    "zaman": "2026-09-08 16:03",
-    "karar": "AL"
-  },
   "CELHA.IS": {
     "giris_fiyat": 26.34000015258789,
     "stop_loss": 24.7302,
@@ -48,20 +41,6 @@
     "zaman": "2026-09-10 12:07",
     "karar": "AL"
   },
-  "FROTO.IS": {
-    "giris_fiyat": 81.8499984741211,
-    "stop_loss": 79.2086,
-    "hedef": 87.1327,
-    "zaman": "2026-09-10 13:22",
-    "karar": "GÜÇLÜ AL"
-  },
-  "GLCVY.IS": {
-    "giris_fiyat": 53.45000076293945,
-    "stop_loss": 51.0458,
-    "hedef": 58.2584,
-    "zaman": "2026-09-10 13:22",
-    "karar": "GÜÇLÜ AL"
-  },
   "HURGZ.IS": {
     "giris_fiyat": 7.96999979019165,
     "stop_loss": 7.4877,
@@ -74,13 +53,6 @@
     "stop_loss": 430.2273,
     "hedef": 468.5454,
     "zaman": "2026-09-10 15:54",
-    "karar": "AL"
-  },
-  "GENIL.IS": {
-    "giris_fiyat": 11.899999618530273,
-    "stop_loss": 11.1686,
-    "hedef": 13.3627,
-    "zaman": "2026-09-10 18:12",
     "karar": "AL"
   },
   "SASA.IS": {
@@ -146,20 +118,6 @@
     "zaman": "2026-09-11 13:19",
     "karar": "GÜÇLÜ AL"
   },
-  "EREGL.IS": {
-    "giris_fiyat": 39.939998626708984,
-    "stop_loss": 38.4978,
-    "hedef": 42.8244,
-    "zaman": "2026-09-11 13:19",
-    "karar": "GÜÇLÜ AL"
-  },
-  "MIATK.IS": {
-    "giris_fiyat": 38.2599983215332,
-    "stop_loss": 35.0427,
-    "hedef": 44.6946,
-    "zaman": "2026-09-11 13:19",
-    "karar": "GÜÇLÜ AL"
-  },
   "TKFEN.IS": {
     "giris_fiyat": 219.0,
     "stop_loss": 206.142,
@@ -213,13 +171,6 @@
     "giris_fiyat": 208.89999389648438,
     "stop_loss": 203.3097,
     "hedef": 220.0807,
-    "zaman": "2026-09-11 14:56",
-    "karar": "AL"
-  },
-  "VAKBN.IS": {
-    "giris_fiyat": 38.08000183105469,
-    "stop_loss": 35.8165,
-    "hedef": 42.6069,
     "zaman": "2026-09-11 14:56",
     "karar": "AL"
   },
@@ -314,13 +265,6 @@
     "zaman": "2026-09-14 13:45",
     "karar": "GÜÇLÜ AL"
   },
-  "KONTR.IS": {
-    "giris_fiyat": 3.490000009536743,
-    "stop_loss": 3.3836,
-    "hedef": 3.7029,
-    "zaman": "2026-09-14 13:45",
-    "karar": "AL"
-  },
   "MRSHL.IS": {
     "giris_fiyat": 1702.0,
     "stop_loss": 1588.512,
@@ -339,13 +283,6 @@
     "giris_fiyat": 1.649999976158142,
     "stop_loss": 1.5811,
     "hedef": 1.7877,
-    "zaman": "2026-09-14 13:45",
-    "karar": "GÜÇLÜ AL"
-  },
-  "OZRDN.IS": {
-    "giris_fiyat": 30.440000534057617,
-    "stop_loss": 28.2058,
-    "hedef": 34.9084,
     "zaman": "2026-09-14 13:45",
     "karar": "GÜÇLÜ AL"
   },
