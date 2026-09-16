@@ -1237,3 +1237,17 @@ BEYAZ.IS,AL,2026-09-15 17:30,24.65999984741211,2026-09-15 17:58,24.6599998474121
 EGEEN.IS,GÜÇLÜ AL,2026-09-15 17:30,6300.0,2026-09-15 17:58,6300.0,0.0,Hacim satış yönünde belirgin arttı
 ZOREN.IS,GÜÇLÜ AL,2026-09-15 17:58,2.5199999809265137,2026-09-15 18:45,2.5199999809265137,0.0,Hacim satış yönünde belirgin arttı
 ZRGYO.IS,GÜÇLÜ AL,2026-09-15 17:58,20.059999465942383,2026-09-15 18:45,20.059999465942383,0.0,Hacim satış yönünde belirgin arttı
+SASA.IS,GÜÇLÜ AL,2026-09-10 18:12,2.7799999713897705,2026-09-16 12:30,2.5199999809265137,-9.35,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (2.57)
+TNZTP.IS,GÜÇLÜ AL,2026-09-11 12:38,31.1200008392334,2026-09-16 12:30,29.200000762939453,-6.17,MACD aşağı kesişim yaptı; RSI 50'nin altına düştü; Hacim satış yönünde belirgin arttı; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (29.64)
+OSTIM.IS,GÜÇLÜ AL,2026-09-14 13:45,1.649999976158142,2026-09-16 12:30,1.5499999523162842,-6.06,"EMA8, EMA21'in altına indi; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (1.58)"
+AHGAZ.IS,AL,2026-09-15 12:32,40.79999923706055,2026-09-16 12:30,39.380001068115234,-3.48,RSI 50'nin altına düştü; Hacim satış yönünde belirgin arttı; Stop-loss tetiklendi (39.59)
+BMSTL.IS,GÜÇLÜ AL,2026-09-15 12:32,49.86000061035156,2026-09-16 12:30,49.619998931884766,-0.48,Hacim satış yönünde belirgin arttı
+DZGYO.IS,GÜÇLÜ AL,2026-09-15 12:32,8.029999732971191,2026-09-16 12:30,7.610000133514404,-5.23,RSI 50'nin altına düştü
+BJKAS.IS,AL,2026-09-15 13:09,2.640000104904175,2026-09-16 12:30,2.359999895095825,-10.61,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (2.37)
+EUKYO.IS,GÜÇLÜ AL,2026-09-15 13:09,14.460000038146973,2026-09-16 12:30,14.020000457763672,-3.04,MACD aşağı kesişim yaptı
+MAALT.IS,GÜÇLÜ AL,2026-09-15 14:13,1054.0,2026-09-16 12:30,998.5,-5.27,RSI 50'nin altına düştü; Hacim satış yönünde belirgin arttı; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (1012.85)
+EPLAS.IS,GÜÇLÜ AL,2026-09-15 15:31,6.400000095367432,2026-09-16 12:30,5.909999847412109,-7.66,MACD aşağı kesişim yaptı; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı
+IHYAY.IS,GÜÇLÜ AL,2026-09-15 15:31,1.2999999523162842,2026-09-16 12:30,1.1799999475479126,-9.23,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (1.22)
+OZRDN.IS,GÜÇLÜ AL,2026-09-15 15:31,30.579999923706055,2026-09-16 12:30,29.399999618530273,-3.86,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı
+BEYAZ.IS,AL,2026-09-15 18:45,24.65999984741211,2026-09-16 12:30,21.920000076293945,-11.11,MACD aşağı kesişim yaptı; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (23.34)
+EGEEN.IS,GÜÇLÜ AL,2026-09-15 18:45,6300.0,2026-09-16 12:30,6040.0,-4.13,Hacim satış yönünde belirgin arttı
