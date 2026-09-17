@@ -5,5 +5,26 @@
     "hedef": 7.4046,
     "zaman": "2026-09-16 14:05",
     "karar": "AL"
+  },
+  "AGHOL.IS": {
+    "giris_fiyat": 34.880001068115234,
+    "stop_loss": 33.2854,
+    "hedef": 38.0693,
+    "zaman": "2026-09-17 15:29",
+    "karar": "AL"
+  },
+  "ANHYT.IS": {
+    "giris_fiyat": 108.0,
+    "stop_loss": 102.8079,
+    "hedef": 118.3843,
+    "zaman": "2026-09-17 15:29",
+    "karar": "AL"
+  },
+  "CEOEM.IS": {
+    "giris_fiyat": 31.799999237060547,
+    "stop_loss": 28.9151,
+    "hedef": 37.5699,
+    "zaman": "2026-09-17 15:29",
+    "karar": "AL"
   }
 }
