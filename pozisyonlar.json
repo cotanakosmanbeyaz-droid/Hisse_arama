@@ -19,5 +19,19 @@
     "hedef": 45.8315,
     "zaman": "2026-09-18 13:27",
     "karar": "AL"
+  },
+  "LOGO.IS": {
+    "giris_fiyat": 141.8000030517578,
+    "stop_loss": 134.1937,
+    "hedef": 157.0125,
+    "zaman": "2026-09-18 14:52",
+    "karar": "GÜÇLÜ AL"
+  },
+  "MPARK.IS": {
+    "giris_fiyat": 441.0,
+    "stop_loss": 419.6174,
+    "hedef": 483.7651,
+    "zaman": "2026-09-18 14:52",
+    "karar": "GÜÇLÜ AL"
   }
 }
