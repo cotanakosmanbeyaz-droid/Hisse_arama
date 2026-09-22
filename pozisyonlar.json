@@ -1,11 +1,4 @@
 {
-  "BOSSA.IS": {
-    "giris_fiyat": 6.710000038146973,
-    "stop_loss": 6.3627,
-    "hedef": 7.4046,
-    "zaman": "2026-09-16 14:05",
-    "karar": "AL"
-  },
   "AHGAZ.IS": {
     "giris_fiyat": 40.79999923706055,
     "stop_loss": 38.2843,
@@ -17,13 +10,6 @@
     "giris_fiyat": 141.8000030517578,
     "stop_loss": 134.1937,
     "hedef": 157.0125,
-    "zaman": "2026-09-18 14:52",
-    "karar": "GÜÇLÜ AL"
-  },
-  "MPARK.IS": {
-    "giris_fiyat": 441.0,
-    "stop_loss": 419.6174,
-    "hedef": 483.7651,
     "zaman": "2026-09-18 14:52",
     "karar": "GÜÇLÜ AL"
   },
@@ -47,5 +33,19 @@
     "hedef": 4.6689,
     "zaman": "2026-09-21 19:55",
     "karar": "AL"
+  },
+  "HUNER.IS": {
+    "giris_fiyat": 4.150000095367432,
+    "stop_loss": 3.8415,
+    "hedef": 4.7669,
+    "zaman": "2026-09-22 12:27",
+    "karar": "GÜÇLÜ AL"
+  },
+  "TOASO.IS": {
+    "giris_fiyat": 288.75,
+    "stop_loss": 273.5591,
+    "hedef": 319.1317,
+    "zaman": "2026-09-22 12:27",
+    "karar": "GÜÇLÜ AL"
   }
 }
