@@ -54,19 +54,5 @@
     "hedef": 7075.7357,
     "zaman": "2026-09-24 13:14",
     "karar": "GÜÇLÜ AL"
-  },
-  "FMIZP.IS": {
-    "giris_fiyat": 282.5,
-    "stop_loss": 265.6112,
-    "hedef": 316.2776,
-    "zaman": "2026-09-24 13:14",
-    "karar": "AL"
-  },
-  "PETKM.IS": {
-    "giris_fiyat": 22.100000381469727,
-    "stop_loss": 20.4451,
-    "hedef": 25.4097,
-    "zaman": "2026-09-24 13:14",
-    "karar": "AL"
   }
 }
