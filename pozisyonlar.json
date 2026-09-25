@@ -55,11 +55,11 @@
     "zaman": "2026-09-25 12:38",
     "karar": "AL"
   },
-  "TOASO.IS": {
-    "giris_fiyat": 289.0,
-    "stop_loss": 275.5764,
-    "hedef": 315.8472,
-    "zaman": "2026-09-25 12:38",
-    "karar": "AL"
+  "TUKAS.IS": {
+    "giris_fiyat": 2.3299999237060547,
+    "stop_loss": 2.1664,
+    "hedef": 2.6572,
+    "zaman": "2026-09-25 13:16",
+    "karar": "GÜÇLÜ AL"
   }
 }
