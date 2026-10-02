@@ -6,27 +6,6 @@
     "zaman": "2026-09-30 13:25",
     "karar": "AL"
   },
-  "FLAP.IS": {
-    "giris_fiyat": 12.279999732971191,
-    "stop_loss": 11.3326,
-    "hedef": 14.1748,
-    "zaman": "2026-10-01 16:03",
-    "karar": "GÜÇLÜ AL"
-  },
-  "AAGYO.IS": {
-    "giris_fiyat": 9.220000267028809,
-    "stop_loss": 8.5488,
-    "hedef": 10.5625,
-    "zaman": "2026-10-02 13:41",
-    "karar": "AL"
-  },
-  "ATATP.IS": {
-    "giris_fiyat": 250.5,
-    "stop_loss": 230.9666,
-    "hedef": 289.5667,
-    "zaman": "2026-10-02 13:41",
-    "karar": "AL"
-  },
   "BERA.IS": {
     "giris_fiyat": 12.989999771118164,
     "stop_loss": 12.2202,
