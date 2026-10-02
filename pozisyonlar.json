@@ -1,11 +1,4 @@
 {
-  "ENERY.IS": {
-    "giris_fiyat": 13.100000381469727,
-    "stop_loss": 12.1703,
-    "hedef": 14.9595,
-    "zaman": "2026-09-23 13:22",
-    "karar": "AL"
-  },
   "CMENT.IS": {
     "giris_fiyat": 236.60000610351562,
     "stop_loss": 225.0761,
@@ -19,5 +12,61 @@
     "hedef": 14.1748,
     "zaman": "2026-10-01 16:03",
     "karar": "GÜÇLÜ AL"
+  },
+  "AAGYO.IS": {
+    "giris_fiyat": 9.220000267028809,
+    "stop_loss": 8.5488,
+    "hedef": 10.5625,
+    "zaman": "2026-10-02 13:41",
+    "karar": "AL"
+  },
+  "ATATP.IS": {
+    "giris_fiyat": 250.5,
+    "stop_loss": 230.9666,
+    "hedef": 289.5667,
+    "zaman": "2026-10-02 13:41",
+    "karar": "AL"
+  },
+  "BERA.IS": {
+    "giris_fiyat": 12.989999771118164,
+    "stop_loss": 12.2202,
+    "hedef": 14.5296,
+    "zaman": "2026-10-02 13:41",
+    "karar": "AL"
+  },
+  "CELHA.IS": {
+    "giris_fiyat": 27.860000610351562,
+    "stop_loss": 25.6212,
+    "hedef": 32.3377,
+    "zaman": "2026-10-02 13:41",
+    "karar": "AL"
+  },
+  "DURDO.IS": {
+    "giris_fiyat": 5.070000171661377,
+    "stop_loss": 4.7799,
+    "hedef": 5.6503,
+    "zaman": "2026-10-02 13:41",
+    "karar": "AL"
+  },
+  "LOGO.IS": {
+    "giris_fiyat": 150.0,
+    "stop_loss": 142.1913,
+    "hedef": 165.6175,
+    "zaman": "2026-10-02 13:41",
+    "karar": "GÜÇLÜ AL"
+  },
+  "NTGAZ.IS": {
+    "giris_fiyat": 10.899999618530273,
+    "stop_loss": 10.418,
+    "hedef": 11.864,
+    "zaman": "2026-10-02 13:41",
+    "karar": "AL"
+  },
+  "OTTO.IS": {
+    "giris_fiyat": 109.5999984741211,
+    "stop_loss": 98.913,
+    "hedef": 130.974,
+    "zaman": "2026-10-02 13:41",
+    "karar": "AL"
   }
 }
