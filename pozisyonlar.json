@@ -41,18 +41,39 @@
     "zaman": "2026-10-02 13:41",
     "karar": "AL"
   },
-  "ATATP.IS": {
-    "giris_fiyat": 255.0,
-    "stop_loss": 235.3904,
-    "hedef": 294.2191,
-    "zaman": "2026-10-02 15:27",
+  "BALAT.IS": {
+    "giris_fiyat": 58.04999923706055,
+    "stop_loss": 55.1094,
+    "hedef": 63.9312,
+    "zaman": "2026-10-05 15:40",
     "karar": "AL"
   },
-  "ESCOM.IS": {
-    "giris_fiyat": 4.670000076293945,
-    "stop_loss": 4.3635,
-    "hedef": 5.2829,
-    "zaman": "2026-10-02 15:27",
+  "ISDMR.IS": {
+    "giris_fiyat": 63.900001525878906,
+    "stop_loss": 60.4857,
+    "hedef": 70.7286,
+    "zaman": "2026-10-05 15:40",
+    "karar": "AL"
+  },
+  "MEPET.IS": {
+    "giris_fiyat": 23.200000762939453,
+    "stop_loss": 21.1235,
+    "hedef": 27.353,
+    "zaman": "2026-10-05 15:40",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ORGE.IS": {
+    "giris_fiyat": 22.920000076293945,
+    "stop_loss": 21.6821,
+    "hedef": 25.3957,
+    "zaman": "2026-10-05 15:40",
+    "karar": "GÜÇLÜ AL"
+  },
+  "QNBTR.IS": {
+    "giris_fiyat": 168.89999389648438,
+    "stop_loss": 166.1915,
+    "hedef": 174.3171,
+    "zaman": "2026-10-05 15:40",
     "karar": "AL"
   }
 }
