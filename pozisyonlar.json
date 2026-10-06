@@ -6,24 +6,10 @@
     "zaman": "2026-09-30 13:25",
     "karar": "AL"
   },
-  "BERA.IS": {
-    "giris_fiyat": 12.989999771118164,
-    "stop_loss": 12.2202,
-    "hedef": 14.5296,
-    "zaman": "2026-10-02 13:41",
-    "karar": "AL"
-  },
   "CELHA.IS": {
     "giris_fiyat": 27.860000610351562,
     "stop_loss": 25.6212,
     "hedef": 32.3377,
-    "zaman": "2026-10-02 13:41",
-    "karar": "AL"
-  },
-  "DURDO.IS": {
-    "giris_fiyat": 5.070000171661377,
-    "stop_loss": 4.7799,
-    "hedef": 5.6503,
     "zaman": "2026-10-02 13:41",
     "karar": "AL"
   },
@@ -68,12 +54,5 @@
     "hedef": 25.3957,
     "zaman": "2026-10-05 15:40",
     "karar": "GÜÇLÜ AL"
-  },
-  "QNBTR.IS": {
-    "giris_fiyat": 168.89999389648438,
-    "stop_loss": 166.1915,
-    "hedef": 174.3171,
-    "zaman": "2026-10-05 15:40",
-    "karar": "AL"
   }
 }
