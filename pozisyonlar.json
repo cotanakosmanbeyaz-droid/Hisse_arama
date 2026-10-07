@@ -1,22 +1,8 @@
 {
-  "CMENT.IS": {
-    "giris_fiyat": 236.60000610351562,
-    "stop_loss": 225.0761,
-    "hedef": 259.6479,
-    "zaman": "2026-09-30 13:25",
-    "karar": "AL"
-  },
   "CELHA.IS": {
     "giris_fiyat": 27.860000610351562,
     "stop_loss": 25.6212,
     "hedef": 32.3377,
-    "zaman": "2026-10-02 13:41",
-    "karar": "AL"
-  },
-  "NTGAZ.IS": {
-    "giris_fiyat": 10.899999618530273,
-    "stop_loss": 10.418,
-    "hedef": 11.864,
     "zaman": "2026-10-02 13:41",
     "karar": "AL"
   },
@@ -25,13 +11,6 @@
     "stop_loss": 98.913,
     "hedef": 130.974,
     "zaman": "2026-10-02 13:41",
-    "karar": "AL"
-  },
-  "BALAT.IS": {
-    "giris_fiyat": 58.04999923706055,
-    "stop_loss": 55.1094,
-    "hedef": 63.9312,
-    "zaman": "2026-10-05 15:40",
     "karar": "AL"
   },
   "ISDMR.IS": {
@@ -45,13 +24,6 @@
     "giris_fiyat": 23.200000762939453,
     "stop_loss": 21.1235,
     "hedef": 27.353,
-    "zaman": "2026-10-05 15:40",
-    "karar": "GÜÇLÜ AL"
-  },
-  "ORGE.IS": {
-    "giris_fiyat": 22.920000076293945,
-    "stop_loss": 21.6821,
-    "hedef": 25.3957,
     "zaman": "2026-10-05 15:40",
     "karar": "GÜÇLÜ AL"
   },
@@ -80,13 +52,6 @@
     "giris_fiyat": 22.15999984741211,
     "stop_loss": 20.6153,
     "hedef": 25.2494,
-    "zaman": "2026-10-06 20:01",
-    "karar": "AL"
-  },
-  "TKNSA.IS": {
-    "giris_fiyat": 14.25,
-    "stop_loss": 13.5028,
-    "hedef": 15.7444,
     "zaman": "2026-10-06 20:01",
     "karar": "AL"
   },
