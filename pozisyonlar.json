@@ -34,11 +34,18 @@
     "zaman": "2026-10-07 15:06",
     "karar": "GÜÇLÜ AL"
   },
-  "QNBFK.IS": {
-    "giris_fiyat": 42.0,
-    "stop_loss": 39.6206,
-    "hedef": 46.7588,
-    "zaman": "2026-10-08 14:27",
+  "MIATK.IS": {
+    "giris_fiyat": 28.540000915527344,
+    "stop_loss": 25.0704,
+    "hedef": 35.4792,
+    "zaman": "2026-10-08 15:15",
     "karar": "GÜÇLÜ AL"
+  },
+  "OTKAR.IS": {
+    "giris_fiyat": 344.5,
+    "stop_loss": 325.9461,
+    "hedef": 381.6079,
+    "zaman": "2026-10-08 15:15",
+    "karar": "AL"
   }
 }
