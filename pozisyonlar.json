@@ -1,11 +1,4 @@
 {
-  "CELHA.IS": {
-    "giris_fiyat": 27.860000610351562,
-    "stop_loss": 25.6212,
-    "hedef": 32.3377,
-    "zaman": "2026-10-02 13:41",
-    "karar": "AL"
-  },
   "OTTO.IS": {
     "giris_fiyat": 109.5999984741211,
     "stop_loss": 98.913,
@@ -47,5 +40,12 @@
     "hedef": 381.6079,
     "zaman": "2026-10-08 15:15",
     "karar": "AL"
+  },
+  "QNBFK.IS": {
+    "giris_fiyat": 44.02000045776367,
+    "stop_loss": 41.0435,
+    "hedef": 49.9731,
+    "zaman": "2026-10-09 14:14",
+    "karar": "GÜÇLÜ AL"
   }
 }
