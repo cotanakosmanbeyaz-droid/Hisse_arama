@@ -68,5 +68,19 @@
     "hedef": 6.5382,
     "zaman": "2026-10-09 15:53",
     "karar": "AL"
+  },
+  "KRGYO.IS": {
+    "giris_fiyat": 3.690000057220459,
+    "stop_loss": 3.3992,
+    "hedef": 4.2716,
+    "zaman": "2026-10-09 18:41",
+    "karar": "GÜÇLÜ AL"
+  },
+  "NUHCM.IS": {
+    "giris_fiyat": 218.6999969482422,
+    "stop_loss": 210.6146,
+    "hedef": 234.8707,
+    "zaman": "2026-10-09 18:41",
+    "karar": "GÜÇLÜ AL"
   }
 }
