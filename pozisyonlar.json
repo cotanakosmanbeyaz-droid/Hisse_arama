@@ -20,41 +20,6 @@
     "zaman": "2026-10-08 15:15",
     "karar": "AL"
   },
-  "QNBFK.IS": {
-    "giris_fiyat": 44.02000045776367,
-    "stop_loss": 41.0435,
-    "hedef": 49.9731,
-    "zaman": "2026-10-09 14:14",
-    "karar": "GÜÇLÜ AL"
-  },
-  "ATAKP.IS": {
-    "giris_fiyat": 35.459999084472656,
-    "stop_loss": 33.3704,
-    "hedef": 39.6392,
-    "zaman": "2026-10-09 15:00",
-    "karar": "AL"
-  },
-  "EKIZ.IS": {
-    "giris_fiyat": 54.29999923706055,
-    "stop_loss": 52.3973,
-    "hedef": 58.1055,
-    "zaman": "2026-10-09 15:00",
-    "karar": "AL"
-  },
-  "TURGG.IS": {
-    "giris_fiyat": 26.520000457763672,
-    "stop_loss": 24.8142,
-    "hedef": 29.9315,
-    "zaman": "2026-10-09 15:00",
-    "karar": "AL"
-  },
-  "AKCNS.IS": {
-    "giris_fiyat": 224.89999389648438,
-    "stop_loss": 210.8879,
-    "hedef": 252.9241,
-    "zaman": "2026-10-09 15:53",
-    "karar": "AL"
-  },
   "ORGE.IS": {
     "giris_fiyat": 23.239999771118164,
     "stop_loss": 22.1151,
@@ -81,6 +46,48 @@
     "stop_loss": 210.6146,
     "hedef": 234.8707,
     "zaman": "2026-10-09 20:02",
+    "karar": "GÜÇLÜ AL"
+  },
+  "CELHA.IS": {
+    "giris_fiyat": 31.84000015258789,
+    "stop_loss": 29.36,
+    "hedef": 36.7999,
+    "zaman": "2026-10-12 16:35",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ERCB.IS": {
+    "giris_fiyat": 37.70000076293945,
+    "stop_loss": 35.3923,
+    "hedef": 42.3153,
+    "zaman": "2026-10-12 16:35",
+    "karar": "AL"
+  },
+  "LIDFA.IS": {
+    "giris_fiyat": 1.7300000190734863,
+    "stop_loss": 1.6352,
+    "hedef": 1.9196,
+    "zaman": "2026-10-12 16:35",
+    "karar": "AL"
+  },
+  "MPARK.IS": {
+    "giris_fiyat": 434.0,
+    "stop_loss": 419.9314,
+    "hedef": 462.1372,
+    "zaman": "2026-10-12 16:35",
+    "karar": "GÜÇLÜ AL"
+  },
+  "OTTO.IS": {
+    "giris_fiyat": 131.39999389648438,
+    "stop_loss": 118.0044,
+    "hedef": 158.1912,
+    "zaman": "2026-10-12 16:35",
+    "karar": "AL"
+  },
+  "VKFYO.IS": {
+    "giris_fiyat": 22.219999313354492,
+    "stop_loss": 20.0903,
+    "hedef": 26.4794,
+    "zaman": "2026-10-12 16:35",
     "karar": "GÜÇLÜ AL"
   }
 }
