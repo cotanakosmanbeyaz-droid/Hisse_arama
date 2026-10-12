@@ -68,5 +68,26 @@
     "hedef": 26.4794,
     "zaman": "2026-10-12 16:35",
     "karar": "GÜÇLÜ AL"
+  },
+  "CELHA.IS": {
+    "giris_fiyat": 31.84000015258789,
+    "stop_loss": 29.36,
+    "hedef": 36.7999,
+    "zaman": "2026-10-12 22:26",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ERCB.IS": {
+    "giris_fiyat": 37.70000076293945,
+    "stop_loss": 35.3923,
+    "hedef": 42.3153,
+    "zaman": "2026-10-12 22:26",
+    "karar": "AL"
+  },
+  "MPARK.IS": {
+    "giris_fiyat": 434.0,
+    "stop_loss": 419.9314,
+    "hedef": 462.1372,
+    "zaman": "2026-10-12 22:26",
+    "karar": "GÜÇLÜ AL"
   }
 }
