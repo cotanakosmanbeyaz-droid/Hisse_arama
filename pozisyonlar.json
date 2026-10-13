@@ -55,18 +55,11 @@
     "zaman": "2026-10-13 15:36",
     "karar": "GÜÇLÜ AL"
   },
-  "GLYHO.IS": {
-    "giris_fiyat": 17.670000076293945,
-    "stop_loss": 16.9963,
-    "hedef": 19.0174,
-    "zaman": "2026-10-13 16:47",
-    "karar": "AL"
-  },
-  "KRGYO.IS": {
-    "giris_fiyat": 3.7300000190734863,
-    "stop_loss": 3.4592,
-    "hedef": 4.2716,
-    "zaman": "2026-10-13 16:47",
-    "karar": "AL"
+  "PKENT.IS": {
+    "giris_fiyat": 109.9000015258789,
+    "stop_loss": 101.5893,
+    "hedef": 126.5214,
+    "zaman": "2026-10-13 17:15",
+    "karar": "GÜÇLÜ AL"
   }
 }
