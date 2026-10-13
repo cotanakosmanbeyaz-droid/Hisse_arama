@@ -1,11 +1,4 @@
 {
-  "ISDMR.IS": {
-    "giris_fiyat": 63.900001525878906,
-    "stop_loss": 60.4857,
-    "hedef": 70.7286,
-    "zaman": "2026-10-05 15:40",
-    "karar": "AL"
-  },
   "GLYHO.IS": {
     "giris_fiyat": 17.170000076293945,
     "stop_loss": 16.3615,
@@ -19,13 +12,6 @@
     "hedef": 381.6079,
     "zaman": "2026-10-08 15:15",
     "karar": "AL"
-  },
-  "ORGE.IS": {
-    "giris_fiyat": 23.239999771118164,
-    "stop_loss": 22.1151,
-    "hedef": 25.4897,
-    "zaman": "2026-10-09 15:53",
-    "karar": "GÜÇLÜ AL"
   },
   "SERNT.IS": {
     "giris_fiyat": 5.78000020980835,
@@ -69,13 +55,6 @@
     "zaman": "2026-10-12 16:35",
     "karar": "GÜÇLÜ AL"
   },
-  "CELHA.IS": {
-    "giris_fiyat": 31.84000015258789,
-    "stop_loss": 29.36,
-    "hedef": 36.7999,
-    "zaman": "2026-10-12 22:26",
-    "karar": "GÜÇLÜ AL"
-  },
   "ERCB.IS": {
     "giris_fiyat": 37.70000076293945,
     "stop_loss": 35.3923,
@@ -83,11 +62,11 @@
     "zaman": "2026-10-12 22:26",
     "karar": "AL"
   },
-  "MPARK.IS": {
-    "giris_fiyat": 434.0,
-    "stop_loss": 419.9314,
-    "hedef": 462.1372,
-    "zaman": "2026-10-12 22:26",
-    "karar": "GÜÇLÜ AL"
+  "AKHAN.IS": {
+    "giris_fiyat": 30.360000610351562,
+    "stop_loss": 28.2727,
+    "hedef": 34.5345,
+    "zaman": "2026-10-13 14:53",
+    "karar": "AL"
   }
 }
