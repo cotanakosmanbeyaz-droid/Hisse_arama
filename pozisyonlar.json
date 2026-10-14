@@ -61,5 +61,19 @@
     "hedef": 52.2894,
     "zaman": "2026-10-14 14:23",
     "karar": "AL"
+  },
+  "ANHYT.IS": {
+    "giris_fiyat": 103.69999694824219,
+    "stop_loss": 99.8229,
+    "hedef": 111.4542,
+    "zaman": "2026-10-14 17:48",
+    "karar": "AL"
+  },
+  "HDFGS.IS": {
+    "giris_fiyat": 1.6299999952316284,
+    "stop_loss": 1.4326,
+    "hedef": 2.0249,
+    "zaman": "2026-10-14 17:48",
+    "karar": "GÜÇLÜ AL"
   }
 }
