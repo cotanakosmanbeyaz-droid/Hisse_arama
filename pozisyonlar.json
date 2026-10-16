@@ -33,5 +33,19 @@
     "hedef": 140.0879,
     "zaman": "2026-10-15 15:33",
     "karar": "AL"
+  },
+  "DOCO.IS": {
+    "giris_fiyat": 11095.0,
+    "stop_loss": 10771.5229,
+    "hedef": 11741.9541,
+    "zaman": "2026-10-16 13:02",
+    "karar": "AL"
+  },
+  "HKTM.IS": {
+    "giris_fiyat": 12.149999618530273,
+    "stop_loss": 11.1091,
+    "hedef": 14.2318,
+    "zaman": "2026-10-16 13:02",
+    "karar": "AL"
   }
 }
