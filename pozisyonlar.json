@@ -6,47 +6,12 @@
     "zaman": "2026-10-13 15:36",
     "karar": "GÜÇLÜ AL"
   },
-  "TURGG.IS": {
-    "giris_fiyat": 26.68000030517578,
-    "stop_loss": 24.6948,
-    "hedef": 30.6505,
-    "zaman": "2026-10-14 13:20",
-    "karar": "GÜÇLÜ AL"
-  },
   "VANGD.IS": {
     "giris_fiyat": 77.5,
     "stop_loss": 69.0738,
     "hedef": 94.3525,
     "zaman": "2026-10-14 13:20",
     "karar": "GÜÇLÜ AL"
-  },
-  "ERCB.IS": {
-    "giris_fiyat": 44.20000076293945,
-    "stop_loss": 40.1553,
-    "hedef": 52.2894,
-    "zaman": "2026-10-14 14:23",
-    "karar": "AL"
-  },
-  "ANHYT.IS": {
-    "giris_fiyat": 103.69999694824219,
-    "stop_loss": 99.8229,
-    "hedef": 111.4542,
-    "zaman": "2026-10-14 19:13",
-    "karar": "AL"
-  },
-  "SUMAS.IS": {
-    "giris_fiyat": 235.5,
-    "stop_loss": 222.0973,
-    "hedef": 262.3055,
-    "zaman": "2026-10-15 12:32",
-    "karar": "AL"
-  },
-  "DOCO.IS": {
-    "giris_fiyat": 10885.0,
-    "stop_loss": 10616.2216,
-    "hedef": 11422.5567,
-    "zaman": "2026-10-15 13:06",
-    "karar": "AL"
   },
   "AKFYE.IS": {
     "giris_fiyat": 3.9000000953674316,
