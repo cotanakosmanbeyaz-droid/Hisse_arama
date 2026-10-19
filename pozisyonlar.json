@@ -6,18 +6,11 @@
     "zaman": "2026-10-15 15:33",
     "karar": "AL"
   },
-  "TAVHL.IS": {
-    "giris_fiyat": 274.25,
-    "stop_loss": 265.1395,
-    "hedef": 292.4709,
-    "zaman": "2026-10-19 19:41",
-    "karar": "GÜÇLÜ AL"
-  },
-  "TURGG.IS": {
-    "giris_fiyat": 26.3799991607666,
-    "stop_loss": 24.2683,
-    "hedef": 30.6034,
-    "zaman": "2026-10-19 19:41",
+  "AVHOL.IS": {
+    "giris_fiyat": 31.959999084472656,
+    "stop_loss": 29.33,
+    "hedef": 37.22,
+    "zaman": "2026-10-19 20:25",
     "karar": "GÜÇLÜ AL"
   }
 }
