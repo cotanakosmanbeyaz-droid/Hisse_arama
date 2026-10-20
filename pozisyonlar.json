@@ -1,11 +1,4 @@
 {
-  "GARAN.IS": {
-    "giris_fiyat": 133.1999969482422,
-    "stop_loss": 129.756,
-    "hedef": 140.0879,
-    "zaman": "2026-10-15 15:33",
-    "karar": "AL"
-  },
   "AKFYE.IS": {
     "giris_fiyat": 3.950000047683716,
     "stop_loss": 3.7687,
@@ -27,11 +20,11 @@
     "zaman": "2026-10-20 12:36",
     "karar": "GÜÇLÜ AL"
   },
-  "TMSN.IS": {
-    "giris_fiyat": 56.5,
-    "stop_loss": 53.0838,
-    "hedef": 63.3324,
-    "zaman": "2026-10-20 12:36",
+  "METRO.IS": {
+    "giris_fiyat": 7.940000057220459,
+    "stop_loss": 7.5112,
+    "hedef": 8.7976,
+    "zaman": "2026-10-20 13:22",
     "karar": "AL"
   }
 }
