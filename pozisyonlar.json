@@ -1,23 +1,9 @@
 {
-  "DOCO.IS": {
-    "giris_fiyat": 11162.5,
-    "stop_loss": 10824.9333,
-    "hedef": 11837.6333,
-    "zaman": "2026-10-20 15:36",
-    "karar": "AL"
-  },
   "YKBNK.IS": {
     "giris_fiyat": 36.619998931884766,
     "stop_loss": 35.4744,
     "hedef": 38.9112,
     "zaman": "2026-10-20 15:36",
     "karar": "GÜÇLÜ AL"
-  },
-  "MERIT.IS": {
-    "giris_fiyat": 13.9399995803833,
-    "stop_loss": 13.3117,
-    "hedef": 15.1965,
-    "zaman": "2026-10-21 12:48",
-    "karar": "AL"
   }
 }
