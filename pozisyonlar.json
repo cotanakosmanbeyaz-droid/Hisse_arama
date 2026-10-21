@@ -1,11 +1,4 @@
 {
-  "TAVHL.IS": {
-    "giris_fiyat": 280.25,
-    "stop_loss": 270.9685,
-    "hedef": 298.8129,
-    "zaman": "2026-10-20 12:36",
-    "karar": "GÜÇLÜ AL"
-  },
   "DOCO.IS": {
     "giris_fiyat": 11162.5,
     "stop_loss": 10824.9333,
@@ -24,13 +17,6 @@
     "giris_fiyat": 13.9399995803833,
     "stop_loss": 13.3117,
     "hedef": 15.1965,
-    "zaman": "2026-10-21 12:48",
-    "karar": "AL"
-  },
-  "TURGG.IS": {
-    "giris_fiyat": 26.200000762939453,
-    "stop_loss": 24.086,
-    "hedef": 30.4279,
     "zaman": "2026-10-21 12:48",
     "karar": "AL"
   }
