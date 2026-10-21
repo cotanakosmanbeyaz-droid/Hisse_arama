@@ -5,5 +5,19 @@
     "hedef": 38.9112,
     "zaman": "2026-10-20 15:36",
     "karar": "GÜÇLÜ AL"
+  },
+  "DOCO.IS": {
+    "giris_fiyat": 11212.5,
+    "stop_loss": 10862.8794,
+    "hedef": 11911.7412,
+    "zaman": "2026-10-21 15:53",
+    "karar": "GÜÇLÜ AL"
+  },
+  "TAVHL.IS": {
+    "giris_fiyat": 282.25,
+    "stop_loss": 271.4743,
+    "hedef": 303.8014,
+    "zaman": "2026-10-21 15:53",
+    "karar": "AL"
   }
 }
