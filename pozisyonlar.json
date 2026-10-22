@@ -1,23 +1,23 @@
 {
-  "YKBNK.IS": {
-    "giris_fiyat": 36.619998931884766,
-    "stop_loss": 35.4744,
-    "hedef": 38.9112,
-    "zaman": "2026-10-20 15:36",
-    "karar": "GÜÇLÜ AL"
-  },
-  "TAVHL.IS": {
-    "giris_fiyat": 282.25,
-    "stop_loss": 271.4743,
-    "hedef": 303.8014,
-    "zaman": "2026-10-21 15:53",
-    "karar": "AL"
-  },
   "DOCO.IS": {
     "giris_fiyat": 11212.5,
     "stop_loss": 10862.8786,
     "hedef": 11911.7428,
     "zaman": "2026-10-21 19:10",
+    "karar": "GÜÇLÜ AL"
+  },
+  "DGNMO.IS": {
+    "giris_fiyat": 4.980000019073486,
+    "stop_loss": 4.3855,
+    "hedef": 6.169,
+    "zaman": "2026-10-22 12:51",
+    "karar": "AL"
+  },
+  "ULUFA.IS": {
+    "giris_fiyat": 1.5399999618530273,
+    "stop_loss": 1.4422,
+    "hedef": 1.7356,
+    "zaman": "2026-10-22 12:51",
     "karar": "GÜÇLÜ AL"
   }
 }
