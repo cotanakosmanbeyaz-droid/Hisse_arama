@@ -13,11 +13,25 @@
     "zaman": "2026-10-23 18:55",
     "karar": "AL"
   },
-  "KLSYN.IS": {
-    "giris_fiyat": 14.890000343322754,
-    "stop_loss": 13.8342,
-    "hedef": 17.0015,
-    "zaman": "2026-10-26 15:56",
-    "karar": "GÜÇLÜ AL"
+  "GMTAS.IS": {
+    "giris_fiyat": 53.29999923706055,
+    "stop_loss": 50.5268,
+    "hedef": 58.8463,
+    "zaman": "2026-10-27 13:03",
+    "karar": "AL"
+  },
+  "KARTN.IS": {
+    "giris_fiyat": 102.19999694824219,
+    "stop_loss": 92.4049,
+    "hedef": 121.7901,
+    "zaman": "2026-10-27 13:03",
+    "karar": "AL"
+  },
+  "MNDRS.IS": {
+    "giris_fiyat": 9.220000267028809,
+    "stop_loss": 8.6491,
+    "hedef": 10.3619,
+    "zaman": "2026-10-27 13:03",
+    "karar": "AL"
   }
 }
