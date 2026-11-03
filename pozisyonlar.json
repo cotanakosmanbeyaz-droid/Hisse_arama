@@ -48,11 +48,18 @@
     "zaman": "2026-11-03 15:49",
     "karar": "AL"
   },
-  "THYAO.IS": {
-    "giris_fiyat": 265.5,
-    "stop_loss": 255.416,
-    "hedef": 285.6681,
-    "zaman": "2026-11-03 18:17",
+  "PGSUS.IS": {
+    "giris_fiyat": 127.0999984741211,
+    "stop_loss": 122.1957,
+    "hedef": 136.9086,
+    "zaman": "2026-11-03 19:06",
+    "karar": "AL"
+  },
+  "SARKY.IS": {
+    "giris_fiyat": 16.780000686645508,
+    "stop_loss": 15.6713,
+    "hedef": 18.9974,
+    "zaman": "2026-11-03 19:06",
     "karar": "AL"
   }
 }
