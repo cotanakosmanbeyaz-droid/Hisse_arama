@@ -90,39 +90,32 @@
     "zaman": "2026-11-04 15:58",
     "karar": "AL"
   },
-  "ENKAI.IS": {
-    "giris_fiyat": 81.25,
-    "stop_loss": 78.4079,
-    "hedef": 86.9343,
-    "zaman": "2026-11-04 20:18",
+  "BFREN.IS": {
+    "giris_fiyat": 97.19999694824219,
+    "stop_loss": 92.3057,
+    "hedef": 106.9886,
+    "zaman": "2026-11-04 20:41",
     "karar": "AL"
   },
-  "EUREN.IS": {
-    "giris_fiyat": 2.3399999141693115,
-    "stop_loss": 2.1992,
-    "hedef": 2.6215,
-    "zaman": "2026-11-04 20:18",
+  "CLEBI.IS": {
+    "giris_fiyat": 1236.0,
+    "stop_loss": 1181.2712,
+    "hedef": 1345.4575,
+    "zaman": "2026-11-04 20:41",
     "karar": "AL"
   },
-  "OYYAT.IS": {
-    "giris_fiyat": 23.34000015258789,
-    "stop_loss": 21.7128,
-    "hedef": 26.5945,
-    "zaman": "2026-11-04 20:18",
-    "karar": "AL"
+  "DOCO.IS": {
+    "giris_fiyat": 12187.5,
+    "stop_loss": 11661.0647,
+    "hedef": 13240.3706,
+    "zaman": "2026-11-04 20:41",
+    "karar": "GÜÇLÜ AL"
   },
-  "SNICA.IS": {
-    "giris_fiyat": 1.9900000095367432,
-    "stop_loss": 1.8644,
-    "hedef": 2.2413,
-    "zaman": "2026-11-04 20:18",
-    "karar": "AL"
-  },
-  "TTRAK.IS": {
-    "giris_fiyat": 364.0,
-    "stop_loss": 346.9632,
-    "hedef": 398.0735,
-    "zaman": "2026-11-04 20:18",
+  "OYLUM.IS": {
+    "giris_fiyat": 5.789999961853027,
+    "stop_loss": 5.3634,
+    "hedef": 6.6433,
+    "zaman": "2026-11-04 20:41",
     "karar": "AL"
   }
 }
