@@ -125,20 +125,6 @@
     "zaman": "2026-11-06 14:51",
     "karar": "GÜÇLÜ AL"
   },
-  "HURGZ.IS": {
-    "giris_fiyat": 3.990000009536743,
-    "stop_loss": 3.6752,
-    "hedef": 4.6196,
-    "zaman": "2026-11-06 14:51",
-    "karar": "AL"
-  },
-  "MEKAG.IS": {
-    "giris_fiyat": 1.7300000190734863,
-    "stop_loss": 1.601,
-    "hedef": 1.9879,
-    "zaman": "2026-11-06 14:51",
-    "karar": "AL"
-  },
   "METEN.IS": {
     "giris_fiyat": 21.139999389648438,
     "stop_loss": 20.3594,
@@ -151,6 +137,62 @@
     "stop_loss": 8.9311,
     "hedef": 10.8479,
     "zaman": "2026-11-06 14:51",
+    "karar": "AL"
+  },
+  "AKYHO.IS": {
+    "giris_fiyat": 1.600000023841858,
+    "stop_loss": 1.4613,
+    "hedef": 1.8774,
+    "zaman": "2026-11-06 15:40",
+    "karar": "AL"
+  },
+  "BRSAN.IS": {
+    "giris_fiyat": 680.0,
+    "stop_loss": 648.5174,
+    "hedef": 742.9652,
+    "zaman": "2026-11-06 15:40",
+    "karar": "AL"
+  },
+  "DOGUB.IS": {
+    "giris_fiyat": 25.860000610351562,
+    "stop_loss": 22.2603,
+    "hedef": 33.0594,
+    "zaman": "2026-11-06 15:40",
+    "karar": "GÜÇLÜ AL"
+  },
+  "OZKGY.IS": {
+    "giris_fiyat": 12.039999961853027,
+    "stop_loss": 11.6676,
+    "hedef": 12.7848,
+    "zaman": "2026-11-06 15:40",
+    "karar": "AL"
+  },
+  "OZSUB.IS": {
+    "giris_fiyat": 36.400001525878906,
+    "stop_loss": 33.6303,
+    "hedef": 41.9394,
+    "zaman": "2026-11-06 15:40",
+    "karar": "AL"
+  },
+  "PSGYO.IS": {
+    "giris_fiyat": 1.3799999952316284,
+    "stop_loss": 1.259,
+    "hedef": 1.622,
+    "zaman": "2026-11-06 15:40",
+    "karar": "AL"
+  },
+  "SOHOE.IS": {
+    "giris_fiyat": 7.800000190734863,
+    "stop_loss": 7.3717,
+    "hedef": 8.6566,
+    "zaman": "2026-11-06 15:40",
+    "karar": "AL"
+  },
+  "VSNMD.IS": {
+    "giris_fiyat": 20.440000534057617,
+    "stop_loss": 18.8662,
+    "hedef": 23.5876,
+    "zaman": "2026-11-06 15:40",
     "karar": "AL"
   }
 }
