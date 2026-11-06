@@ -188,11 +188,18 @@
     "zaman": "2026-11-06 15:40",
     "karar": "AL"
   },
-  "VSNMD.IS": {
-    "giris_fiyat": 20.440000534057617,
-    "stop_loss": 18.8662,
-    "hedef": 23.5876,
-    "zaman": "2026-11-06 17:01",
+  "HURGZ.IS": {
+    "giris_fiyat": 4.0,
+    "stop_loss": 3.6852,
+    "hedef": 4.6296,
+    "zaman": "2026-11-06 17:52",
+    "karar": "AL"
+  },
+  "MEKAG.IS": {
+    "giris_fiyat": 1.7200000286102295,
+    "stop_loss": 1.591,
+    "hedef": 1.9779,
+    "zaman": "2026-11-06 17:52",
     "karar": "AL"
   }
 }
