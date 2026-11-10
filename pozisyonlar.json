@@ -139,11 +139,18 @@
     "zaman": "2026-11-10 15:28",
     "karar": "AL"
   },
-  "VAKFA.IS": {
-    "giris_fiyat": 9.170000076293945,
-    "stop_loss": 8.5747,
-    "hedef": 10.3606,
-    "zaman": "2026-11-10 19:22",
+  "RNPOL.IS": {
+    "giris_fiyat": 1.9800000190734863,
+    "stop_loss": 1.8249,
+    "hedef": 2.2903,
+    "zaman": "2026-11-10 20:15",
+    "karar": "AL"
+  },
+  "YEOTK.IS": {
+    "giris_fiyat": 28.260000228881836,
+    "stop_loss": 26.4089,
+    "hedef": 31.9623,
+    "zaman": "2026-11-10 20:15",
     "karar": "GÜÇLÜ AL"
   }
 }
