@@ -13,13 +13,6 @@
     "zaman": "2026-11-04 15:14",
     "karar": "GÜÇLÜ AL"
   },
-  "SNICA.IS": {
-    "giris_fiyat": 1.9900000095367432,
-    "stop_loss": 1.8644,
-    "hedef": 2.2413,
-    "zaman": "2026-11-04 21:06",
-    "karar": "AL"
-  },
   "TTRAK.IS": {
     "giris_fiyat": 364.0,
     "stop_loss": 346.9632,
@@ -40,20 +33,6 @@
     "hedef": 8.7557,
     "zaman": "2026-11-05 15:16",
     "karar": "AL"
-  },
-  "HKTM.IS": {
-    "giris_fiyat": 12.34000015258789,
-    "stop_loss": 11.5133,
-    "hedef": 13.9933,
-    "zaman": "2026-11-05 15:16",
-    "karar": "GÜÇLÜ AL"
-  },
-  "DZGYO.IS": {
-    "giris_fiyat": 7.079999923706055,
-    "stop_loss": 6.7838,
-    "hedef": 7.6723,
-    "zaman": "2026-11-05 21:22",
-    "karar": "GÜÇLÜ AL"
   },
   "ALBTN.IS": {
     "giris_fiyat": 23.1200008392334,
@@ -76,20 +55,6 @@
     "zaman": "2026-11-06 14:51",
     "karar": "GÜÇLÜ AL"
   },
-  "METEN.IS": {
-    "giris_fiyat": 21.139999389648438,
-    "stop_loss": 20.3594,
-    "hedef": 22.7013,
-    "zaman": "2026-11-06 14:51",
-    "karar": "AL"
-  },
-  "DOGUB.IS": {
-    "giris_fiyat": 25.860000610351562,
-    "stop_loss": 22.2603,
-    "hedef": 33.0594,
-    "zaman": "2026-11-06 15:40",
-    "karar": "GÜÇLÜ AL"
-  },
   "METRO.IS": {
     "giris_fiyat": 8.109999656677246,
     "stop_loss": 7.5974,
@@ -102,13 +67,6 @@
     "stop_loss": 2.0557,
     "hedef": 2.4587,
     "zaman": "2026-11-09 23:43",
-    "karar": "AL"
-  },
-  "BLUME.IS": {
-    "giris_fiyat": 30.31999969482422,
-    "stop_loss": 28.0729,
-    "hedef": 34.8141,
-    "zaman": "2026-11-10 15:28",
     "karar": "AL"
   },
   "EKIM.IS": {
@@ -132,13 +90,6 @@
     "zaman": "2026-11-10 15:28",
     "karar": "GÜÇLÜ AL"
   },
-  "MASFN.IS": {
-    "giris_fiyat": 37.02000045776367,
-    "stop_loss": 34.7763,
-    "hedef": 41.5074,
-    "zaman": "2026-11-10 15:28",
-    "karar": "AL"
-  },
   "RNPOL.IS": {
     "giris_fiyat": 1.9800000190734863,
     "stop_loss": 1.8249,
@@ -151,6 +102,76 @@
     "stop_loss": 26.4089,
     "hedef": 31.9623,
     "zaman": "2026-11-10 21:14",
+    "karar": "GÜÇLÜ AL"
+  },
+  "AVGYO.IS": {
+    "giris_fiyat": 15.119999885559082,
+    "stop_loss": 13.9155,
+    "hedef": 17.5289,
+    "zaman": "2026-11-11 15:52",
+    "karar": "AL"
+  },
+  "BOBET.IS": {
+    "giris_fiyat": 16.0,
+    "stop_loss": 14.9672,
+    "hedef": 18.0656,
+    "zaman": "2026-11-11 15:52",
+    "karar": "GÜÇLÜ AL"
+  },
+  "BRKSN.IS": {
+    "giris_fiyat": 5.800000190734863,
+    "stop_loss": 5.3875,
+    "hedef": 6.625,
+    "zaman": "2026-11-11 15:52",
+    "karar": "AL"
+  },
+  "CASA.IS": {
+    "giris_fiyat": 45.599998474121094,
+    "stop_loss": 42.8699,
+    "hedef": 51.0602,
+    "zaman": "2026-11-11 15:52",
+    "karar": "AL"
+  },
+  "ELITE.IS": {
+    "giris_fiyat": 18.59000015258789,
+    "stop_loss": 17.489,
+    "hedef": 20.792,
+    "zaman": "2026-11-11 15:52",
+    "karar": "GÜÇLÜ AL"
+  },
+  "KRDMB.IS": {
+    "giris_fiyat": 63.29999923706055,
+    "stop_loss": 58.3687,
+    "hedef": 73.1626,
+    "zaman": "2026-11-11 15:52",
+    "karar": "GÜÇLÜ AL"
+  },
+  "OSMEN.IS": {
+    "giris_fiyat": 5.21999979019165,
+    "stop_loss": 4.8126,
+    "hedef": 6.0349,
+    "zaman": "2026-11-11 15:52",
+    "karar": "GÜÇLÜ AL"
+  },
+  "PNLSN.IS": {
+    "giris_fiyat": 32.47999954223633,
+    "stop_loss": 30.5412,
+    "hedef": 36.3577,
+    "zaman": "2026-11-11 15:52",
+    "karar": "GÜÇLÜ AL"
+  },
+  "SAYAS.IS": {
+    "giris_fiyat": 38.91999816894531,
+    "stop_loss": 36.4292,
+    "hedef": 43.9016,
+    "zaman": "2026-11-11 15:52",
+    "karar": "GÜÇLÜ AL"
+  },
+  "TUKAS.IS": {
+    "giris_fiyat": 2.0999999046325684,
+    "stop_loss": 1.9386,
+    "hedef": 2.4228,
+    "zaman": "2026-11-11 15:52",
     "karar": "GÜÇLÜ AL"
   }
 }
