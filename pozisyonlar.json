@@ -96,40 +96,5 @@
     "hedef": 125.8996,
     "zaman": "2026-11-12 15:51",
     "karar": "AL"
-  },
-  "MARBL.IS": {
-    "giris_fiyat": 8.710000038146973,
-    "stop_loss": 8.0981,
-    "hedef": 9.9338,
-    "zaman": "2026-11-12 20:40",
-    "karar": "GÜÇLÜ AL"
-  },
-  "ONCSM.IS": {
-    "giris_fiyat": 104.0999984741211,
-    "stop_loss": 95.8491,
-    "hedef": 120.6018,
-    "zaman": "2026-11-12 20:40",
-    "karar": "AL"
-  },
-  "ORZAX.IS": {
-    "giris_fiyat": 70.4000015258789,
-    "stop_loss": 64.7816,
-    "hedef": 81.6368,
-    "zaman": "2026-11-12 20:40",
-    "karar": "GÜÇLÜ AL"
-  },
-  "PNLSN.IS": {
-    "giris_fiyat": 31.959999084472656,
-    "stop_loss": 30.1109,
-    "hedef": 35.6583,
-    "zaman": "2026-11-12 20:40",
-    "karar": "AL"
-  },
-  "TUKAS.IS": {
-    "giris_fiyat": 2.200000047683716,
-    "stop_loss": 2.0276,
-    "hedef": 2.5448,
-    "zaman": "2026-11-12 20:40",
-    "karar": "GÜÇLÜ AL"
   }
 }
