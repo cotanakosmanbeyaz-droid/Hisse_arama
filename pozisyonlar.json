@@ -125,18 +125,18 @@
     "zaman": "2026-11-13 16:59",
     "karar": "AL"
   },
-  "HDFGS.IS": {
-    "giris_fiyat": 1.2599999904632568,
-    "stop_loss": 1.1414,
-    "hedef": 1.4971,
-    "zaman": "2026-11-13 18:28",
-    "karar": "GÜÇLÜ AL"
+  "AKSGY.IS": {
+    "giris_fiyat": 9.25,
+    "stop_loss": 8.9781,
+    "hedef": 9.7938,
+    "zaman": "2026-11-13 19:15",
+    "karar": "AL"
   },
-  "ZGYO.IS": {
-    "giris_fiyat": 15.050000190734863,
-    "stop_loss": 13.5454,
-    "hedef": 18.0592,
-    "zaman": "2026-11-13 18:28",
+  "SANKO.IS": {
+    "giris_fiyat": 21.420000076293945,
+    "stop_loss": 20.4895,
+    "hedef": 23.281,
+    "zaman": "2026-11-13 19:15",
     "karar": "GÜÇLÜ AL"
   }
 }
