@@ -6,26 +6,12 @@
     "zaman": "2026-11-04 15:14",
     "karar": "AL"
   },
-  "TTRAK.IS": {
-    "giris_fiyat": 364.0,
-    "stop_loss": 346.9632,
-    "hedef": 398.0735,
-    "zaman": "2026-11-04 21:06",
-    "karar": "AL"
-  },
   "FORMT.IS": {
     "giris_fiyat": 0.9100000262260437,
     "stop_loss": 0.8473,
     "hedef": 1.0354,
     "zaman": "2026-11-05 15:16",
     "karar": "AL"
-  },
-  "ALBTN.IS": {
-    "giris_fiyat": 23.1200008392334,
-    "stop_loss": 21.4392,
-    "hedef": 26.4815,
-    "zaman": "2026-11-06 14:51",
-    "karar": "GÜÇLÜ AL"
   },
   "METRO.IS": {
     "giris_fiyat": 8.109999656677246,
@@ -132,18 +118,18 @@
     "zaman": "2026-11-13 15:11",
     "karar": "GÜÇLÜ AL"
   },
-  "HDFGS.IS": {
-    "giris_fiyat": 1.2799999713897705,
-    "stop_loss": 1.1614,
-    "hedef": 1.5171,
-    "zaman": "2026-11-13 15:11",
-    "karar": "GÜÇLÜ AL"
+  "AKSGY.IS": {
+    "giris_fiyat": 9.25,
+    "stop_loss": 8.9781,
+    "hedef": 9.7938,
+    "zaman": "2026-11-13 15:56",
+    "karar": "AL"
   },
-  "ZGYO.IS": {
-    "giris_fiyat": 15.300000190734863,
-    "stop_loss": 13.8311,
-    "hedef": 18.2377,
-    "zaman": "2026-11-13 15:11",
+  "SANKO.IS": {
+    "giris_fiyat": 21.420000076293945,
+    "stop_loss": 20.4895,
+    "hedef": 23.281,
+    "zaman": "2026-11-13 15:56",
     "karar": "GÜÇLÜ AL"
   }
 }
