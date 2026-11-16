@@ -173,5 +173,61 @@
     "hedef": 11.2421,
     "zaman": "2026-11-16 16:50",
     "karar": "AL"
+  },
+  "ATATR.IS": {
+    "giris_fiyat": 5.28000020980835,
+    "stop_loss": 4.8707,
+    "hedef": 6.0986,
+    "zaman": "2026-11-16 19:20",
+    "karar": "GÜÇLÜ AL"
+  },
+  "BURCE.IS": {
+    "giris_fiyat": 21.420000076293945,
+    "stop_loss": 19.8923,
+    "hedef": 24.4755,
+    "zaman": "2026-11-16 19:20",
+    "karar": "AL"
+  },
+  "FLAP.IS": {
+    "giris_fiyat": 10.899999618530273,
+    "stop_loss": 10.2275,
+    "hedef": 12.2451,
+    "zaman": "2026-11-16 19:20",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ISKPL.IS": {
+    "giris_fiyat": 3.109999895095825,
+    "stop_loss": 2.8695,
+    "hedef": 3.591,
+    "zaman": "2026-11-16 19:20",
+    "karar": "GÜÇLÜ AL"
+  },
+  "KAPLM.IS": {
+    "giris_fiyat": 126.4000015258789,
+    "stop_loss": 113.9199,
+    "hedef": 151.3603,
+    "zaman": "2026-11-16 19:20",
+    "karar": "GÜÇLÜ AL"
+  },
+  "RODRG.IS": {
+    "giris_fiyat": 13.460000038146973,
+    "stop_loss": 12.4815,
+    "hedef": 15.417,
+    "zaman": "2026-11-16 19:20",
+    "karar": "GÜÇLÜ AL"
+  },
+  "VESBE.IS": {
+    "giris_fiyat": 3.9800000190734863,
+    "stop_loss": 3.7109,
+    "hedef": 4.5181,
+    "zaman": "2026-11-16 19:20",
+    "karar": "GÜÇLÜ AL"
+  },
+  "ZOREN.IS": {
+    "giris_fiyat": 1.590000033378601,
+    "stop_loss": 1.4867,
+    "hedef": 1.7966,
+    "zaman": "2026-11-16 19:20",
+    "karar": "AL"
   }
 }
