@@ -195,11 +195,53 @@
     "zaman": "2026-11-17 16:46",
     "karar": "GÜÇLÜ AL"
   },
-  "PKENT.IS": {
-    "giris_fiyat": 111.69999694824219,
-    "stop_loss": 103.5993,
-    "hedef": 127.9014,
-    "zaman": "2026-11-17 20:30",
+  "ASUZU.IS": {
+    "giris_fiyat": 40.439998626708984,
+    "stop_loss": 38.4423,
+    "hedef": 44.4354,
+    "zaman": "2026-11-17 21:31",
+    "karar": "AL"
+  },
+  "KRGYO.IS": {
+    "giris_fiyat": 3.9200000762939453,
+    "stop_loss": 3.6737,
+    "hedef": 4.4126,
+    "zaman": "2026-11-17 21:31",
+    "karar": "GÜÇLÜ AL"
+  },
+  "QUICK.IS": {
+    "giris_fiyat": 48.68000030517578,
+    "stop_loss": 45.6102,
+    "hedef": 54.8197,
+    "zaman": "2026-11-17 21:31",
+    "karar": "AL"
+  },
+  "SMRVA.IS": {
+    "giris_fiyat": 5.670000076293945,
+    "stop_loss": 5.2035,
+    "hedef": 6.603,
+    "zaman": "2026-11-17 21:31",
+    "karar": "GÜÇLÜ AL"
+  },
+  "SUWEN.IS": {
+    "giris_fiyat": 5.579999923706055,
+    "stop_loss": 5.2114,
+    "hedef": 6.3172,
+    "zaman": "2026-11-17 21:31",
+    "karar": "GÜÇLÜ AL"
+  },
+  "VERUS.IS": {
+    "giris_fiyat": 537.0,
+    "stop_loss": 503.6968,
+    "hedef": 603.6065,
+    "zaman": "2026-11-17 21:31",
+    "karar": "GÜÇLÜ AL"
+  },
+  "VSNMD.IS": {
+    "giris_fiyat": 24.540000915527344,
+    "stop_loss": 22.454,
+    "hedef": 28.7121,
+    "zaman": "2026-11-17 21:31",
     "karar": "GÜÇLÜ AL"
   }
 }
