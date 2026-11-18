@@ -1784,3 +1784,27 @@ SUWEN.IS,GÜÇLÜ AL,2026-11-17 21:31,5.579999923706055,2026-11-17 22:03,5.57999
 VERUS.IS,GÜÇLÜ AL,2026-11-17 21:31,537.0,2026-11-17 22:03,537.0,0.0,Hacim satış yönünde belirgin arttı
 VSNMD.IS,GÜÇLÜ AL,2026-11-17 21:31,24.540000915527344,2026-11-17 22:03,24.540000915527344,0.0,Hacim satış yönünde belirgin arttı
 PKENT.IS,GÜÇLÜ AL,2026-11-17 22:03,111.69999694824219,2026-11-17 22:49,111.69999694824219,0.0,Hacim satış yönünde belirgin arttı
+KCAER.IS,AL,2026-11-04 15:14,10.149999618530273,2026-11-18 16:17,9.979999542236328,-1.67,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı
+EKIM.IS,AL,2026-11-10 15:28,15.970000267028809,2026-11-18 16:17,14.600000381469727,-8.58,"EMA8, EMA21'in altına indi; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (14.69)"
+RNPOL.IS,AL,2026-11-10 21:14,1.9800000190734863,2026-11-18 16:17,2.109999895095825,6.57,MACD aşağı kesişim yaptı
+ONCSM.IS,AL,2026-11-12 21:46,104.0999984741211,2026-11-18 16:17,96.80000305175781,-7.01,RSI 50'nin altına düştü
+BVSAN.IS,GÜÇLÜ AL,2026-11-13 15:11,63.349998474121094,2026-11-18 16:17,60.5,-4.5,RSI 50'nin altına düştü
+AKSGY.IS,AL,2026-11-13 19:15,9.25,2026-11-18 16:17,8.819999694824219,-4.65,"EMA8, EMA21'in altına indi; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (8.98)"
+HDFGS.IS,GÜÇLÜ AL,2026-11-13 21:15,1.2599999904632568,2026-11-18 16:17,1.2200000286102295,-3.17,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı
+ALCAR.IS,AL,2026-11-16 16:50,612.0,2026-11-18 16:17,577.5,-5.64,MACD aşağı kesişim yaptı; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (577.66)
+PLTUR.IS,GÜÇLÜ AL,2026-11-16 16:50,15.350000381469727,2026-11-18 16:17,14.460000038146973,-5.8,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı
+QNBTR.IS,AL,2026-11-16 16:50,154.39999389648438,2026-11-18 16:17,143.39999389648438,-7.12,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (149.87)
+TGSAS.IS,GÜÇLÜ AL,2026-11-16 16:50,123.5999984741211,2026-11-18 16:17,109.5,-11.41,"EMA8, EMA21'in altına indi; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (112.85)"
+ULAS.IS,GÜÇLÜ AL,2026-11-16 16:50,13.1899995803833,2026-11-18 16:17,11.800000190734863,-10.54,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (12.10)
+YBTAS.IS,AL,2026-11-16 16:50,10.5,2026-11-18 16:17,10.0,-4.76,"EMA8, EMA21'in altına indi; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (10.13)"
+ATATR.IS,GÜÇLÜ AL,2026-11-16 23:40,5.28000020980835,2026-11-18 16:17,5.059999942779541,-4.17,MACD aşağı kesişim yaptı
+ISKPL.IS,GÜÇLÜ AL,2026-11-16 23:40,3.109999895095825,2026-11-18 16:17,2.9000000953674316,-6.75,RSI 50'nin altına düştü
+KAPLM.IS,GÜÇLÜ AL,2026-11-16 23:40,126.4000015258789,2026-11-18 16:17,116.9000015258789,-7.52,RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı
+VESBE.IS,GÜÇLÜ AL,2026-11-16 23:40,3.9800000190734863,2026-11-18 16:17,3.619999885559082,-9.05,RSI 50'nin altına düştü; Stop-loss tetiklendi (3.71)
+ZOREN.IS,AL,2026-11-16 23:40,1.590000033378601,2026-11-18 16:17,1.440000057220459,-9.43,RSI 50'nin altına düştü; Hacim satış yönünde belirgin arttı; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (1.49)
+COSMO.IS,GÜÇLÜ AL,2026-11-17 16:46,84.4000015258789,2026-11-18 16:17,81.0,-4.03,Hacim satış yönünde belirgin arttı
+SMRTG.IS,GÜÇLÜ AL,2026-11-17 16:46,4.550000190734863,2026-11-18 16:17,4.289999961853027,-5.71,Hacim satış yönünde belirgin arttı
+KRGYO.IS,GÜÇLÜ AL,2026-11-17 22:49,3.9200000762939453,2026-11-18 16:17,3.5999999046325684,-8.16,MACD aşağı kesişim yaptı; RSI 50'nin altına düştü; Stop-loss tetiklendi (3.67)
+SMRVA.IS,GÜÇLÜ AL,2026-11-17 22:49,5.670000076293945,2026-11-18 16:17,5.110000133514404,-9.88,MACD aşağı kesişim yaptı; RSI 50'nin altına düştü; Fiyat EMA50'nin altında kapandı; Stop-loss tetiklendi (5.20)
+SUWEN.IS,GÜÇLÜ AL,2026-11-17 22:49,5.579999923706055,2026-11-18 16:17,5.070000171661377,-9.14,RSI 50'nin altına düştü; Hacim satış yönünde belirgin arttı; Stop-loss tetiklendi (5.21)
+VSNMD.IS,GÜÇLÜ AL,2026-11-17 22:49,24.540000915527344,2026-11-18 16:17,22.079999923706055,-10.02,RSI 50'nin altına düştü; Stop-loss tetiklendi (22.45)
