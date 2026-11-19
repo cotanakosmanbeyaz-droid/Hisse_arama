@@ -6,33 +6,12 @@
     "zaman": "2026-11-05 15:16",
     "karar": "AL"
   },
-  "PNLSN.IS": {
-    "giris_fiyat": 31.959999084472656,
-    "stop_loss": 30.1109,
-    "hedef": 35.6583,
-    "zaman": "2026-11-12 21:46",
-    "karar": "AL"
-  },
-  "ALKIM.IS": {
-    "giris_fiyat": 10.970000267028809,
-    "stop_loss": 10.3619,
-    "hedef": 12.1862,
-    "zaman": "2026-11-13 15:11",
-    "karar": "AL"
-  },
   "AVGYO.IS": {
     "giris_fiyat": 15.359999656677246,
     "stop_loss": 14.2135,
     "hedef": 17.6531,
     "zaman": "2026-11-13 15:11",
     "karar": "AL"
-  },
-  "DURDO.IS": {
-    "giris_fiyat": 6.090000152587891,
-    "stop_loss": 5.755,
-    "hedef": 6.7601,
-    "zaman": "2026-11-16 16:50",
-    "karar": "GÜÇLÜ AL"
   },
   "TRCAS.IS": {
     "giris_fiyat": 44.279998779296875,
@@ -62,20 +41,6 @@
     "zaman": "2026-11-17 22:49",
     "karar": "AL"
   },
-  "QUICK.IS": {
-    "giris_fiyat": 48.68000030517578,
-    "stop_loss": 45.6102,
-    "hedef": 54.8197,
-    "zaman": "2026-11-17 22:49",
-    "karar": "AL"
-  },
-  "VERUS.IS": {
-    "giris_fiyat": 537.0,
-    "stop_loss": 503.6968,
-    "hedef": 603.6065,
-    "zaman": "2026-11-17 22:49",
-    "karar": "GÜÇLÜ AL"
-  },
   "MMCAS.IS": {
     "giris_fiyat": 15.010000228881836,
     "stop_loss": 14.065,
@@ -103,5 +68,47 @@
     "hedef": 24.884,
     "zaman": "2026-11-18 22:30",
     "karar": "GÜÇLÜ AL"
+  },
+  "EGEGY.IS": {
+    "giris_fiyat": 18.670000076293945,
+    "stop_loss": 17.5114,
+    "hedef": 20.9872,
+    "zaman": "2026-11-19 16:25",
+    "karar": "GÜÇLÜ AL"
+  },
+  "HKTM.IS": {
+    "giris_fiyat": 12.260000228881836,
+    "stop_loss": 11.5278,
+    "hedef": 13.7244,
+    "zaman": "2026-11-19 16:25",
+    "karar": "AL"
+  },
+  "IHGZT.IS": {
+    "giris_fiyat": 0.8899999856948853,
+    "stop_loss": 0.83,
+    "hedef": 1.01,
+    "zaman": "2026-11-19 16:25",
+    "karar": "AL"
+  },
+  "IHLAS.IS": {
+    "giris_fiyat": 0.8500000238418579,
+    "stop_loss": 0.7923,
+    "hedef": 0.9653,
+    "zaman": "2026-11-19 16:25",
+    "karar": "GÜÇLÜ AL"
+  },
+  "NUGYO.IS": {
+    "giris_fiyat": 6.869999885559082,
+    "stop_loss": 6.4158,
+    "hedef": 7.7784,
+    "zaman": "2026-11-19 16:25",
+    "karar": "AL"
+  },
+  "RODRG.IS": {
+    "giris_fiyat": 12.75,
+    "stop_loss": 11.6967,
+    "hedef": 14.8567,
+    "zaman": "2026-11-19 16:25",
+    "karar": "AL"
   }
 }
