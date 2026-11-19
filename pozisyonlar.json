@@ -69,13 +69,6 @@
     "zaman": "2026-11-18 22:30",
     "karar": "GÜÇLÜ AL"
   },
-  "EGEGY.IS": {
-    "giris_fiyat": 18.670000076293945,
-    "stop_loss": 17.5114,
-    "hedef": 20.9872,
-    "zaman": "2026-11-19 16:25",
-    "karar": "GÜÇLÜ AL"
-  },
   "HKTM.IS": {
     "giris_fiyat": 12.260000228881836,
     "stop_loss": 11.5278,
@@ -110,5 +103,12 @@
     "hedef": 14.8567,
     "zaman": "2026-11-19 16:25",
     "karar": "AL"
+  },
+  "DURDO.IS": {
+    "giris_fiyat": 6.28000020980835,
+    "stop_loss": 5.7945,
+    "hedef": 7.251,
+    "zaman": "2026-11-19 17:04",
+    "karar": "GÜÇLÜ AL"
   }
 }
