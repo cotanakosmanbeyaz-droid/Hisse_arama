@@ -55,11 +55,18 @@
     "zaman": "2026-11-20 15:58",
     "karar": "AL"
   },
-  "PKART.IS": {
-    "giris_fiyat": 86.0999984741211,
-    "stop_loss": 77.6899,
-    "hedef": 102.9203,
-    "zaman": "2026-11-20 17:36",
+  "CGCAM.IS": {
+    "giris_fiyat": 22.15999984741211,
+    "stop_loss": 19.8689,
+    "hedef": 26.7422,
+    "zaman": "2026-11-20 18:08",
+    "karar": "GÜÇLÜ AL"
+  },
+  "IHGZT.IS": {
+    "giris_fiyat": 0.8999999761581421,
+    "stop_loss": 0.8336,
+    "hedef": 1.0327,
+    "zaman": "2026-11-20 18:08",
     "karar": "GÜÇLÜ AL"
   }
 }
