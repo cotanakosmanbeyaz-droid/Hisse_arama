@@ -1,25 +1,4 @@
 {
-  "MMCAS.IS": {
-    "giris_fiyat": 15.010000228881836,
-    "stop_loss": 14.065,
-    "hedef": 16.9,
-    "zaman": "2026-11-18 16:17",
-    "karar": "GÜÇLÜ AL"
-  },
-  "HKTM.IS": {
-    "giris_fiyat": 12.260000228881836,
-    "stop_loss": 11.5278,
-    "hedef": 13.7244,
-    "zaman": "2026-11-19 16:25",
-    "karar": "AL"
-  },
-  "IHLAS.IS": {
-    "giris_fiyat": 0.8500000238418579,
-    "stop_loss": 0.7923,
-    "hedef": 0.9653,
-    "zaman": "2026-11-19 16:25",
-    "karar": "GÜÇLÜ AL"
-  },
   "EGEGY.IS": {
     "giris_fiyat": 18.670000076293945,
     "stop_loss": 17.5114,
@@ -55,13 +34,6 @@
     "zaman": "2026-11-23 19:03",
     "karar": "AL"
   },
-  "SILVR.IS": {
-    "giris_fiyat": 1.6100000143051147,
-    "stop_loss": 1.501,
-    "hedef": 1.8279,
-    "zaman": "2026-11-23 19:03",
-    "karar": "AL"
-  },
   "YUNSA.IS": {
     "giris_fiyat": 6.28000020980835,
     "stop_loss": 5.9234,
@@ -74,6 +46,13 @@
     "stop_loss": 12.8525,
     "hedef": 17.4951,
     "zaman": "2026-11-24 02:01",
+    "karar": "GÜÇLÜ AL"
+  },
+  "AKYHO.IS": {
+    "giris_fiyat": 1.6200000047683716,
+    "stop_loss": 1.4695,
+    "hedef": 1.921,
+    "zaman": "2026-11-24 18:43",
     "karar": "GÜÇLÜ AL"
   }
 }
