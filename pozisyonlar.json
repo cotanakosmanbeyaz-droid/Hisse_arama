@@ -1,16 +1,37 @@
 {
-  "CWENE.IS": {
-    "giris_fiyat": 18.059999465942383,
-    "stop_loss": 16.8447,
-    "hedef": 20.4907,
-    "zaman": "2026-11-23 19:03",
-    "karar": "GÜÇLÜ AL"
-  },
   "FRIGO.IS": {
     "giris_fiyat": 2.259999990463257,
     "stop_loss": 2.1186,
     "hedef": 2.5429,
     "zaman": "2026-11-23 19:03",
+    "karar": "AL"
+  },
+  "AKSA.IS": {
+    "giris_fiyat": 11.5,
+    "stop_loss": 11.0376,
+    "hedef": 12.4248,
+    "zaman": "2026-11-26 17:36",
+    "karar": "AL"
+  },
+  "KCAER.IS": {
+    "giris_fiyat": 10.319999694824219,
+    "stop_loss": 9.7541,
+    "hedef": 11.4518,
+    "zaman": "2026-11-26 17:36",
+    "karar": "GÜÇLÜ AL"
+  },
+  "OYLUM.IS": {
+    "giris_fiyat": 6.559999942779541,
+    "stop_loss": 6.2224,
+    "hedef": 7.2352,
+    "zaman": "2026-11-26 17:36",
+    "karar": "GÜÇLÜ AL"
+  },
+  "TSGYO.IS": {
+    "giris_fiyat": 4.190000057220459,
+    "stop_loss": 3.9376,
+    "hedef": 4.6948,
+    "zaman": "2026-11-26 17:36",
     "karar": "AL"
   }
 }
