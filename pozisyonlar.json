@@ -33,26 +33,5 @@
     "hedef": 11.4518,
     "zaman": "2026-11-26 23:32",
     "karar": "GÜÇLÜ AL"
-  },
-  "HUNER.IS": {
-    "giris_fiyat": 3.75,
-    "stop_loss": 3.4564,
-    "hedef": 4.3371,
-    "zaman": "2026-11-27 19:51",
-    "karar": "AL"
-  },
-  "KLSER.IS": {
-    "giris_fiyat": 16.049999237060547,
-    "stop_loss": 14.8061,
-    "hedef": 18.5378,
-    "zaman": "2026-11-27 19:51",
-    "karar": "GÜÇLÜ AL"
-  },
-  "MAALT.IS": {
-    "giris_fiyat": 736.5,
-    "stop_loss": 700.0536,
-    "hedef": 809.3927,
-    "zaman": "2026-11-27 19:51",
-    "karar": "AL"
   }
 }
